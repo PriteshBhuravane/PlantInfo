@@ -1,0 +1,506 @@
+[
+  {
+  "id": 1,
+  "common_name": "Palas (Flame of the Forest)",
+  "scientific_name": "Butea monosperma",
+  "family": "Fabaceae (Leguminosae)",
+  "type": "Tree",
+  "native_region": "Indian Subcontinent and Southeast Asia",
+  "images": [
+    "/src/assets/palas-hero.jpeg",
+    "/src/assets/palas_2.jpeg",
+    "/src/assets/palas_3.jpeg"
+  ],
+  "description": {
+    "height": "40-50 feet (12-15 meters)",
+    "spread": "30-40 feet (10-12 meters)",
+    "leaf_color": "Bright green when young, dark green later, deciduous in summer",
+    "leaf_shape": "Trifoliate (3 large, leathery leaflets)",
+    "description": "Butea monosperma, popularly called 'Palas' or 'Flame of the Forest', is a medium-sized deciduous tree admired for its spectacular flowering display. During late winter to early spring (February to April), when most trees shed their leaves, Palas bursts into bloom with dense clusters of vibrant orange to scarlet pea-shaped flowers that cover the entire canopy, giving the appearance of a tree engulfed in flames. The flowers attract bees, birds, and squirrels, making it an important ecological species. The trifoliate leaves are large, leathery, and shed annually before flowering, allowing the blossoms to stand out vividly against a bare backdrop. Its rough gray bark exudes a reddish gum known as 'Bengal Kino' or 'Palas gum', which has significant medicinal and commercial uses. After flowering, the tree produces flat, thin, papery pods containing a single seed. Because of its ability to thrive in dry, poor soils, Palas is often found in tropical and subtropical dry forests, open grasslands, and village landscapes across India. Beyond its striking beauty, it holds cultural, religious, and medicinal significance, being associated with rituals, Ayurvedic medicine, and the Holi festival where its flowers are used to make natural eco-friendly colors.",
+    "growth_rate": "Moderate",
+    "lifespan": "Long-lived, several decades",
+    "bark": "Rough, gray, with vertical cracks, exudes medicinal gum"
+  },
+  "care": {
+    "water": "Low to moderate, drought tolerant once established",
+    "sunlight": "Full sun, thrives in open spaces",
+    "soil_type": "Well-draining sandy or loamy soils, tolerates poor soils",
+    "fertilizer": "Minimal, occasional organic compost during early growth",
+    "temperature_range": "15-40°C (59-104°F)",
+    "humidity": "Adaptable to dry and semi-humid climates",
+    "pruning": "Minimal pruning, only to remove dead or damaged branches"
+  },
+  "uses": {
+    "medicinal": "Flowers used for skin ailments and making cooling drinks; seeds are deworming agents; bark gum treats diarrhea and dysentery.",
+    "culinary": "Flowers used for preparing natural drinks (like 'tesu sherbet') and natural dyes.",
+    "ornamental": "Highly valued as a spring-flowering ornamental tree due to its striking flame-like flowers.",
+    "religious": "Sacred in Hindu traditions; flowers offered in worship, especially during Holi festival."
+  },
+  "propagation": {
+    "method": "Seeds (commonly), root suckers, stem cuttings",
+    "season": "Best during rainy season or early monsoon",
+    "germination_time": "15-25 days",
+    "success_rate": "Moderate to high with seeds"
+  },
+  "environmental": {
+    "air_purifying": true,
+    "pollinator_support": true,
+    "carbon_sequestration": "Moderate, good for dryland afforestation",
+    "companion_plants": ["Neem", "Tamarind", "Peepal", "Acacia"]
+  },
+  "safety": {
+    "toxic_to_pets": false,
+    "toxic_to_humans": false,
+    "handling_precautions": "Flower pollen may cause mild allergies in sensitive individuals"
+  },
+  "interesting_facts": [
+    "Called 'Flame of the Forest' for its fiery orange-red blossoms.",
+    "Bark yields 'Bengal Kino' or 'Palas Gum', valued in traditional medicine.",
+    "Flowers are used to make natural colors for Holi festival.",
+    "Important host plant for silk-producing lac insects.",
+    "Mentioned in Sanskrit texts as 'Palasha' and linked with Lord Agni (fire god)."
+  ]
+},
+{
+  "id": 2,
+  "common_name": "Pimpal (Sacred Fig / Peepal Tree)",
+  "scientific_name": "Ficus religiosa",
+  "family": "Moraceae",
+  "type": "Large deciduous tree",
+  "native_region": "Indian Subcontinent and Southeast Asia",
+  "images": [
+    "/src/assets/pimpal.jpeg",
+    "/src/assets/pimpal_1.jpeg",
+    "/src/assets/pimpal_2.jpeg"
+  ],
+  "description": {
+    "height": "60-100 feet (18-30 meters)",
+    "spread": "Wide spreading canopy up to 25-30 meters",
+    "leaf_color": "Glossy green, turns yellow before shedding",
+    "leaf_shape": "Heart-shaped with a distinctive elongated tip",
+    "description": "Ficus religiosa, commonly known as Pimpal or Peepal tree, is one of the most revered and ecologically important trees in India. It is a large, fast-growing deciduous tree with a broad canopy and numerous aerial roots that support its massive trunk. The tree is easily recognized by its distinctive heart-shaped leaves with a long tapering tip, which flutter in the slightest breeze, producing a soothing rustling sound. Pimpal is a long-lived species; some specimens are believed to be over a thousand years old. It sheds its leaves in late winter, followed by the emergence of fresh, bright green foliage in spring. The tree produces small, round figs in pairs that ripen from green to purple, serving as food for birds, bats, and squirrels. Ecologically, it is considered a 'keystone species' that sustains biodiversity by providing shade, shelter, and nutrition. Culturally, the Pimpal is sacred in Hinduism, Buddhism, and Jainism—Gautama Buddha attained enlightenment under a Peepal tree, hence it is often called the 'Bodhi Tree'. The tree is commonly planted near temples and in villages as a symbol of longevity, wisdom, and spirituality.",
+    "growth_rate": "Fast growing",
+    "lifespan": "Several hundred to over a thousand years",
+    "bark": "Light gray, smooth in young trees, becoming rough and cracked with age"
+  },
+  "care": {
+    "water": "Moderate, requires regular watering when young, becomes drought tolerant when mature",
+    "sunlight": "Full sun, thrives best in open spaces with maximum exposure",
+    "soil_type": "Prefers deep, well-draining loamy soils but adaptable to rocky and poor soils",
+    "fertilizer": "Not demanding, occasional organic manure for young trees",
+    "temperature_range": "15-45°C (59-113°F)",
+    "humidity": "Thrives in tropical and subtropical conditions",
+    "pruning": "Minimal, usually done to manage size and remove weak or diseased branches"
+  },
+  "uses": {
+    "medicinal": "Leaves, bark, and roots are used in Ayurveda for asthma, diabetes, wounds, and digestive disorders. Latex is used for skin ailments.",
+    "cultural": "Regarded as sacred; worshipped daily in many Indian households and temples. Associated with rituals for prosperity and longevity.",
+    "environmental": "Provides dense shade, prevents soil erosion, improves air quality, and supports biodiversity.",
+    "ornamental": "Commonly planted in parks, temples, and avenues for its majestic appearance and spiritual significance."
+  },
+  "propagation": {
+    "method": "Seeds, cuttings, or by planting aerial roots",
+    "season": "Monsoon season is ideal",
+    "germination_time": "2-4 weeks",
+    "success_rate": "High with seeds and cuttings"
+  },
+  "environmental": {
+    "air_purifying": true,
+    "pollinator_support": true,
+    "carbon_sequestration": "Very high due to large biomass",
+    "companion_plants": ["Banyan (Ficus benghalensis)", "Neem", "Tamarind"]
+  },
+  "safety": {
+    "toxic_to_pets": false,
+    "toxic_to_humans": false,
+    "handling_precautions": "Latex from leaves and bark may cause mild irritation in sensitive individuals"
+  },
+  "interesting_facts": [
+    "Known as the 'Tree of Life' in India due to its longevity and benefits.",
+    "Gautama Buddha attained enlightenment under a Peepal tree at Bodh Gaya, hence called the 'Bodhi Tree'.",
+    "Produces oxygen even at night through a special type of photosynthesis (CAM pathway).",
+    "One of the fastest-growing and longest-living trees in India.",
+    "Deeply rooted in Indian traditions; often planted near temples as a sacred symbol."
+  ]
+},
+{
+  "id": 3,
+  "common_name": "Vad (Banyan Tree)",
+  "scientific_name": "Ficus benghalensis",
+  "family": "Moraceae",
+  "type": "Large evergreen tree",
+  "native_region": "Indian Subcontinent",
+  "images": [
+     "/src/assets/vad_2.webp",
+    "/src/assets/vad.jpeg",
+    "/src/assets/vad_3.jpg"
+  ],
+  "description": {
+    "height": "20-30 meters (65-100 feet) or more",
+    "spread": "Massive canopy spreading over several hundred meters",
+    "leaf_color": "Dark green, glossy on top, paler beneath",
+    "leaf_shape": "Broad, ovate leaves with leathery texture",
+    "description": "Ficus benghalensis, popularly known as Vad or Banyan tree, is India’s national tree and a symbol of immortality and strength. It is one of the largest and most majestic trees in the world, recognized by its enormous spreading canopy supported by hundreds of aerial roots that descend from branches and take root in the soil, forming new trunks. This unique growth pattern allows the tree to cover vast areas and live for centuries. The leaves are large, leathery, and ovate, providing dense shade. The tree produces small figs that turn from green to red when ripe, serving as food for birds, bats, and other wildlife. The Vad is considered sacred in Hinduism and is associated with Lord Vishnu and the concept of eternal life. It plays a vital ecological role by providing shelter to numerous species and maintaining microclimates in villages. Some banyan trees in India are over 200-300 years old and have become pilgrimage sites due to their cultural and spiritual significance.",
+    "growth_rate": "Moderate to fast",
+    "lifespan": "Several hundred years, sometimes over a thousand",
+    "bark": "Grayish brown, rough, secretes white latex when cut"
+  },
+  "care": {
+    "water": "Moderate, requires regular watering when young, highly drought tolerant once mature",
+    "sunlight": "Full sun is essential for healthy growth",
+    "soil_type": "Deep, fertile, well-draining loamy soil but adapts to various soil types",
+    "fertilizer": "Occasional organic compost in early growth, mature trees require little fertilization",
+    "temperature_range": "15-40°C (59-104°F)",
+    "humidity": "Thrives in tropical and subtropical climates",
+    "pruning": "Minimal pruning required, mostly to control spread and remove dead branches"
+  },
+  "uses": {
+    "medicinal": "Bark, leaves, and roots used in Ayurveda for diabetes, dysentery, skin diseases, and wound healing. Latex used for tooth and gum problems.",
+    "cultural": "Sacred tree in Hinduism, symbol of immortality and fertility. Women worship the Banyan for long life of husbands during 'Vat Purnima'.",
+    "environmental": "Provides shade, prevents soil erosion, improves air quality, and supports large ecosystems.",
+    "ornamental": "Planted in parks, temple premises, and avenues for its majestic appearance and shade."
+  },
+  "propagation": {
+    "method": "Seeds, stem cuttings, and aerial roots",
+    "season": "Best during monsoon season",
+    "germination_time": "2-4 weeks for seeds",
+    "success_rate": "High, especially with cuttings and aerial roots"
+  },
+  "environmental": {
+    "air_purifying": true,
+    "pollinator_support": true,
+    "carbon_sequestration": "Extremely high due to massive size",
+    "companion_plants": ["Pimpal (Ficus religiosa)", "Neem", "Tamarind"]
+  },
+  "safety": {
+    "toxic_to_pets": false,
+    "toxic_to_humans": false,
+    "handling_precautions": "Latex may cause mild irritation in sensitive individuals"
+  },
+  "interesting_facts": [
+    "National tree of India, symbol of eternal life.",
+    "Produces aerial roots that grow into new trunks, forming a living forest.",
+    "Some banyans in India are centuries old and cover several acres.",
+    "Associated with Lord Vishnu and worshipped during festivals like Vat Purnima.",
+    "Provides habitat and food for countless birds, animals, and insects."
+  ]
+},
+{
+  "id": 4,
+  "common_name": "Audumbar (Cluster Fig Tree)",
+  "scientific_name": "Ficus racemosa",
+  "family": "Moraceae",
+  "type": "Medium-sized deciduous tree",
+  "native_region": "Indian Subcontinent, Southeast Asia, and Australia",
+  "images": [
+    "/src/assets/audumbar_1.jpeg",
+    "/src/assets/audumbar.jpeg",
+    "/src/assets/audumber_3.jpeg"
+  ],
+  "description": {
+    "height": "15-20 meters (50-65 feet)",
+    "spread": "10-15 meters (30-50 feet)",
+    "leaf_color": "Shiny green on top, lighter underside",
+    "leaf_shape": "Elliptical to ovate leaves with smooth margins",
+    "description": "Ficus racemosa, commonly known as Audumbar or Cluster Fig Tree, is a medium-sized deciduous tree revered in Indian culture and Ayurveda. It is easily identified by its unique fruiting habit—the figs grow in dense clusters directly on the trunk and main branches (cauliflorous nature), a rare phenomenon among trees. The figs are green when raw and turn reddish or purple when ripe, attracting birds, bats, and monkeys. Its bark is smooth and gray, while the leaves are broad, shiny, and leathery. The tree sheds leaves in the dry season and regenerates fresh foliage with the onset of monsoon. Culturally, Audumbar is considered sacred and is associated with Lord Dattatreya, worshipped as a divine and wish-fulfilling tree. Ecologically, it plays an important role in sustaining biodiversity, providing fruits, shelter, and microhabitats for a wide range of species.",
+    "growth_rate": "Fast growing",
+    "lifespan": "Several decades, often 100+ years",
+    "bark": "Smooth, grayish, exudes latex when cut"
+  },
+  "care": {
+    "water": "Requires moderate to high water in early growth; becomes drought-tolerant when mature",
+    "sunlight": "Prefers full sun but can tolerate partial shade",
+    "soil_type": "Thrives in deep, fertile, well-drained alluvial or loamy soils",
+    "fertilizer": "Occasional organic manure during active growth seasons",
+    "temperature_range": "15-40°C (59-104°F)",
+    "humidity": "Prefers tropical and subtropical humid conditions",
+    "pruning": "Minimal pruning required, mostly to remove dry or diseased branches"
+  },
+  "uses": {
+    "medicinal": "Bark decoction used for diabetes and ulcers; leaves for dysentery; latex for skin diseases; fruits for digestive health and urinary disorders.",
+    "cultural": "Sacred in Hinduism, worshipped as the tree of Lord Dattatreya, believed to bring prosperity and spiritual blessings.",
+    "environmental": "Supports biodiversity, prevents soil erosion, provides food and shelter for wildlife.",
+    "ornamental": "Planted in temple premises, gardens, and avenues due to cultural importance and shade."
+  },
+  "propagation": {
+    "method": "Seeds and stem cuttings",
+    "season": "Best during monsoon",
+    "germination_time": "2-4 weeks",
+    "success_rate": "Moderate to high"
+  },
+  "environmental": {
+    "air_purifying": true,
+    "pollinator_support": true,
+    "carbon_sequestration": "High due to fast growth and large biomass",
+    "companion_plants": ["Neem", "Pimpal (Ficus religiosa)", "Vad (Ficus benghalensis)"]
+  },
+  "safety": {
+    "toxic_to_pets": false,
+    "toxic_to_humans": false,
+    "handling_precautions": "Latex may irritate sensitive skin, handle with care"
+  },
+  "interesting_facts": [
+    "Fruits grow in clusters directly on trunk and branches (cauliflory).",
+    "Associated with Lord Dattatreya and worshipped in many parts of India.",
+    "Figs provide food for birds, monkeys, and bats, making it a keystone species.",
+    "Latex has medicinal properties and is used in traditional medicine.",
+    "Important tree in Ayurveda, mentioned in ancient scriptures."
+  ]
+},
+{
+  "id": 5,
+  "common_name": "Bakul (Spanish Cherry / Bullet Wood)",
+  "scientific_name": "Mimusops elengi",
+  "family": "Sapotaceae",
+  "type": "Evergreen tree",
+  "native_region": "Indian Subcontinent, Southeast Asia, and Northern Australia",
+  "images": [
+     "/src/assets/bakul.jpeg",
+    "/src/assets/bakul_2.jpeg",
+    "/src/assets/bakul_3.jpeg"
+  ],
+  "description": {
+    "height": "10-15 meters (33-50 feet)",
+    "spread": "8-12 meters (26-40 feet)",
+    "leaf_color": "Dark green, glossy",
+    "leaf_shape": "Elliptic to lanceolate, leathery, smooth-edged",
+    "description": "Mimusops elengi, commonly known as Bakul or Spanish Cherry, is a medium-sized evergreen tree highly valued for its fragrant flowers, dense foliage, and cultural significance. The tree has a rounded canopy with thick, leathery leaves that remain lush throughout the year. Its small, star-shaped, cream-white flowers bloom in clusters and exude a strong, pleasant fragrance, especially at night, making it a beloved ornamental tree. These flowers are often used in garlands, perfumes, and religious offerings. The tree also bears small, oval, fleshy fruits that ripen to yellow or orange and are edible with a sweet taste. Bakul wood is hard, durable, and traditionally used for construction and tools. The tree holds religious importance in Hinduism and Buddhism, being considered sacred and often planted near temples. Ecologically, it provides dense shade, supports pollinators with its nectar-rich flowers, and sustains birds and small mammals with its fruits.",
+    "growth_rate": "Moderate",
+    "lifespan": "Several decades, often over 100 years",
+    "bark": "Dark gray to brown, rough and cracked, exudes white latex when cut"
+  },
+  "care": {
+    "water": "Requires moderate watering, more in dry months; drought-tolerant once established",
+    "sunlight": "Prefers full sun but can tolerate partial shade",
+    "soil_type": "Grows well in deep, well-draining loamy or lateritic soils",
+    "fertilizer": "Organic manure or compost annually during growing season",
+    "temperature_range": "20-38°C (68-100°F)",
+    "humidity": "Thrives in tropical and subtropical conditions",
+    "pruning": "Light pruning to maintain shape and encourage flowering"
+  },
+  "uses": {
+    "medicinal": "Bark used for dental problems and as an astringent; flowers for cooling effect; fruits aid digestion; seeds used in traditional remedies.",
+    "cultural": "Flowers used in religious rituals, garlands, and perfumes; tree considered sacred and auspicious.",
+    "environmental": "Provides dense shade, supports pollinators and birds, prevents soil erosion.",
+    "ornamental": "Highly valued for its fragrant flowers, glossy foliage, and round canopy."
+  },
+  "propagation": {
+    "method": "Seeds and stem cuttings",
+    "season": "Monsoon or early spring",
+    "germination_time": "3-5 weeks",
+    "success_rate": "Moderate"
+  },
+  "environmental": {
+    "air_purifying": true,
+    "pollinator_support": true,
+    "carbon_sequestration": "Moderate to high",
+    "companion_plants": ["Neem", "Audumbar (Ficus racemosa)", "Mango", "Tamarind"]
+  },
+  "safety": {
+    "toxic_to_pets": false,
+    "toxic_to_humans": false,
+    "handling_precautions": "Latex may irritate sensitive skin in some individuals"
+  },
+  "interesting_facts": [
+    "Bakul flowers are extremely fragrant at night and used in perfumes and garlands.",
+    "Its wood is hard, heavy, and durable, traditionally used in construction and tools.",
+    "Mentioned in ancient Sanskrit literature and Buddhist texts as a sacred tree.",
+    "Fruits are edible and sweet, attracting birds and animals.",
+    "The tree blooms profusely during hot summer months, spreading fragrance widely."
+  ]
+},
+{
+  "id": 6,
+  "common_name": "Arjun Tree",
+  "scientific_name": "Terminalia arjuna",
+  "family": "Combretaceae",
+  "type": "Large deciduous tree",
+  "native_region": "Indian Subcontinent",
+  "images": [
+    "/src/assets/arjun.webp",
+    "/src/assets/arjun_1.jpeg",
+    "/src/assets/arjun_2.jpeg"
+  ],
+  "description": {
+    "height": "20-27 meters (65-90 feet)",
+    "spread": "15-20 meters (50-65 feet)",
+    "leaf_color": "Dark green on top, pale green beneath",
+    "leaf_shape": "Simple, oblong or elliptic leaves with smooth margins",
+    "description": "Terminalia arjuna, commonly known as the Arjun tree, is a large, majestic deciduous tree revered for its medicinal, environmental, and cultural significance. It is widely distributed along riverbanks, wetlands, and moist regions across the Indian subcontinent. The tree is characterized by its smooth, grey to pinkish bark that peels off in thin sheets and its spreading branches forming a broad canopy. The leaves are simple, dark green on the upper surface, and pale beneath. In summer, it bears clusters of small, white to yellowish flowers that are mildly fragrant. The fruits are distinctive, having five hard, winged ridges. Traditionally, the Arjun tree has been used in Ayurveda for centuries, especially for heart-related ailments. Its bark is a key ingredient in many herbal medicines for cardiovascular health, wound healing, and bone strength. Ecologically, the Arjun tree plays a crucial role in preventing soil erosion along riverbanks and provides habitat and food for birds, bees, and other pollinators.",
+    "growth_rate": "Moderate to fast",
+    "lifespan": "Several decades, often more than 100 years",
+    "bark": "Smooth, grey to pinkish, exfoliates in thin sheets; medicinally valuable"
+  },
+  "care": {
+    "water": "Moderate, requires regular watering when young, drought-tolerant when mature",
+    "sunlight": "Full sun is essential for healthy growth",
+    "soil_type": "Deep, well-draining alluvial or loamy soil, thrives near riverbanks",
+    "fertilizer": "Occasional organic compost or manure during early growth stages",
+    "temperature_range": "15-40°C (59-104°F)",
+    "humidity": "Prefers moderate to high humidity, tolerates dry conditions once mature",
+    "pruning": "Minimal, mainly to remove dead or diseased branches"
+  },
+  "uses": {
+    "medicinal": "Bark is widely used in Ayurveda for treating heart diseases, high blood pressure, and cholesterol. Also beneficial for bone health, wounds, and ulcers.",
+    "cultural": "Considered sacred in some regions, often planted near temples and riversides for spiritual significance.",
+    "environmental": "Prevents soil erosion along riverbanks, provides shade, and supports biodiversity.",
+    "ornamental": "Planted in parks, gardens, and along roadsides for shade and environmental benefits."
+  },
+  "propagation": {
+    "method": "Seeds and stem cuttings",
+    "season": "Best during monsoon or early rainy season",
+    "germination_time": "3-5 weeks",
+    "success_rate": "Moderate to high"
+  },
+  "environmental": {
+    "air_purifying": true,
+    "pollinator_support": true,
+    "carbon_sequestration": "High due to its large biomass and fast growth",
+    "companion_plants": ["Neem", "Pimpal (Ficus religiosa)", "Bakul (Mimusops elengi)", "Tamarind"]
+  },
+  "safety": {
+    "toxic_to_pets": false,
+    "toxic_to_humans": false,
+    "handling_precautions": "Bark powder should be consumed only in proper dosage as recommended by Ayurvedic practitioners"
+  },
+  "interesting_facts": [
+    "Arjun tree bark is a well-known Ayurvedic remedy for heart health, often referred to as a 'natural cardiac tonic'.",
+    "Commonly planted along riverbanks to prevent erosion due to its strong root system.",
+    "Its fruits have five distinct wing-like ridges, making them easily recognizable.",
+    "Named after Arjuna, the warrior prince from the Indian epic Mahabharata, symbolizing strength and resilience.",
+    "Flowers attract bees and other pollinators, supporting the local ecosystem."
+  ]
+},
+{
+  "id": 7,
+  "common_name": "Bel Tree (Bael / Bengal Quince)",
+  "scientific_name": "Aegle marmelos",
+  "family": "Rutaceae (Citrus family)",
+  "type": "Medium-sized deciduous tree",
+  "native_region": "Indian Subcontinent and Southeast Asia",
+  "images": [
+    "/src/assets/bel.jpg",
+    "/src/assets/bel_1.jpg",
+    "/src/assets/bel_2.jpeg"
+  ],
+  "description": {
+    "height": "8-12 meters (26-40 feet)",
+    "spread": "6-10 meters (20-33 feet)",
+    "leaf_color": "Glossy green when young, slightly yellowish green as they mature",
+    "leaf_shape": "Trifoliate (each leaf with three leaflets), aromatic when crushed",
+    "description": "Aegle marmelos, commonly known as Bel or Bael tree, is a sacred and medicinal tree widely found across India and Southeast Asia. It is a medium-sized, slow-growing deciduous tree known for its religious, cultural, and medicinal significance. The tree is easily recognized by its trifoliate leaves and fragrant, pale greenish-white flowers. Its fruit is round to oval with a hard, woody shell that turns yellowish when ripe. The pulp inside is aromatic, sweet, and highly nutritious, commonly used to prepare drinks, sherbets, and traditional medicines. The Bel tree holds great importance in Hinduism, being associated with Lord Shiva, and its leaves are considered sacred offerings in temples. Medicinally, nearly every part of the tree — roots, bark, leaves, and fruits — is used in Ayurveda for treating digestive disorders, diabetes, respiratory issues, and inflammation. The tree is highly drought-resistant, making it suitable for dry and arid regions.",
+    "growth_rate": "Slow to moderate",
+    "lifespan": "Long-lived, several decades to over 100 years",
+    "bark": "Light gray, slightly rough, exudes a fragrant gum when cut"
+  },
+  "care": {
+    "water": "Low to moderate; drought-tolerant once established",
+    "sunlight": "Full sun required for healthy growth and fruiting",
+    "soil_type": "Well-draining sandy or loamy soil; tolerates poor soils",
+    "fertilizer": "Occasional organic manure or compost during fruiting season",
+    "temperature_range": "20-40°C (68-104°F)",
+    "humidity": "Prefers dry to semi-humid conditions",
+    "pruning": "Minimal pruning to shape the canopy and remove dead or diseased branches"
+  },
+  "uses": {
+    "medicinal": "Fruit pulp is used for digestive health, diarrhea, and ulcers; leaves and bark used to manage diabetes and inflammation; roots for fever and respiratory issues.",
+    "culinary": "Ripe fruit pulp is eaten raw or used to make beverages, jams, and sweets like 'Bael sherbet'.",
+    "cultural": "Leaves are sacred offerings to Lord Shiva and used in various Hindu rituals and festivals.",
+    "environmental": "Prevents soil erosion and provides habitat for birds and pollinators.",
+    "ornamental": "Planted near temples and gardens for its cultural value and shade."
+  },
+  "propagation": {
+    "method": "Seeds, stem cuttings, and root suckers",
+    "season": "Best during monsoon or early spring",
+    "germination_time": "3-6 weeks",
+    "success_rate": "Moderate to high, especially with seeds"
+  },
+  "environmental": {
+    "air_purifying": true,
+    "pollinator_support": true,
+    "carbon_sequestration": "Moderate",
+    "companion_plants": ["Neem", "Mango", "Tamarind", "Arjun (Terminalia arjuna)"]
+  },
+  "safety": {
+    "toxic_to_pets": false,
+    "toxic_to_humans": false,
+    "handling_precautions": "Hard outer shell of fruit should be handled carefully to avoid injury when breaking open"
+  },
+  "interesting_facts": [
+    "Bel leaves are sacred to Lord Shiva and commonly used in worship and rituals.",
+    "The fruit is known for its cooling effect and is used to make a traditional summer drink called 'Bael sherbet'.",
+    "One of the few trees that can thrive in arid and drought-prone regions.",
+    "Nearly every part of the tree is used in Ayurveda for various health benefits.",
+    "Its trifoliate leaves symbolize the three functions of Lord Shiva: creation, preservation, and destruction."
+  ]
+},
+{
+  "id": 8,
+  "common_name": "Kusum",
+  "scientific_name": "Schleichera oleosa",
+  "family": "Sapindaceae",
+  "type": "Large deciduous tree",
+  "native_region": "Indian Subcontinent and Southeast Asia",
+  "images": [
+    "/src/assets/kusum.jpg",
+    "/src/assets/kusum_1.webp",
+    "/src/assets/kusum_2.jpg"
+  ],
+  "description": {
+    "height": "15-25 meters (50-80 feet)",
+    "spread": "10-15 meters (33-50 feet)",
+    "leaf_color": "Reddish when young, turning dark green as they mature",
+    "leaf_shape": "Compound pinnate leaves with 2-4 pairs of leaflets",
+    "description": "Schleichera oleosa, commonly known as Kusum, is a large, slow-growing deciduous tree valued for its medicinal, economic, and ecological importance. The tree is easily recognized by its young reddish foliage, which later turns lush green, creating a striking seasonal display. Kusum produces small yellow-green flowers followed by oval fruits containing seeds rich in oil. The seed oil, known as Kusum oil, is traditionally used for cooking, medicinal preparations, and as a base for hair oils and soaps. The tree is also a primary host for lac insects, which produce natural lac used in varnish, jewelry, and traditional crafts. Its dense, strong wood is highly durable and used for furniture, tools, and construction. Culturally, Kusum holds significance in rural economies as a multipurpose tree, providing shade, timber, oil, and income through lac cultivation. The tree thrives in tropical and subtropical climates and is well-suited for afforestation and agroforestry projects.",
+    "growth_rate": "Slow to moderate",
+    "lifespan": "Several decades, often 100+ years",
+    "bark": "Grayish-brown, rough, with vertical cracks, exudes a yellowish gum when cut"
+  },
+  "care": {
+    "water": "Moderate, requires regular watering in early stages; drought-tolerant once mature",
+    "sunlight": "Full sun to partial shade, prefers open spaces",
+    "soil_type": "Thrives in deep, well-draining loamy or clayey soils",
+    "fertilizer": "Organic manure during initial growth years for better establishment",
+    "temperature_range": "20-40°C (68-104°F)",
+    "humidity": "Prefers moderate to humid climates",
+    "pruning": "Minimal pruning required, mainly to remove dry or diseased branches"
+  },
+  "uses": {
+    "medicinal": "Seed oil used for skin ailments and as an anti-inflammatory; bark decoction used for digestive issues and fever; leaves have mild antimicrobial properties.",
+    "culinary": "Seed oil sometimes used in cooking after proper purification.",
+    "economic": "Seeds yield Kusum oil for hair products and soaps; primary host tree for lac insects, providing natural lac for varnishes and traditional crafts.",
+    "timber": "Wood is heavy, strong, and durable, ideal for furniture, carts, and agricultural tools.",
+    "environmental": "Used in afforestation and agroforestry for soil conservation and biodiversity support."
+  },
+  "propagation": {
+    "method": "Seeds (commonly), stem cuttings",
+    "season": "Monsoon is ideal for sowing",
+    "germination_time": "3-5 weeks",
+    "success_rate": "Moderate to high with seeds"
+  },
+  "environmental": {
+    "air_purifying": true,
+    "pollinator_support": true,
+    "carbon_sequestration": "High due to dense wood and long lifespan",
+    "companion_plants": ["Neem", "Palas (Butea monosperma)", "Tamarind", "Arjun (Terminalia arjuna)"]
+  },
+  "safety": {
+    "toxic_to_pets": false,
+    "toxic_to_humans": false,
+    "handling_precautions": "Raw seed oil should not be consumed without purification as it may contain natural toxins."
+  },
+  "interesting_facts": [
+    "Kusum is a primary host plant for lac insects, which produce natural lac used in bangles, varnishes, and dyes.",
+    "The young reddish leaves of Kusum are highly ornamental and signal the changing seasons.",
+    "Kusum oil is traditionally used in Ayurvedic hair care and skincare products.",
+    "It is an important agroforestry tree, providing shade and improving soil quality.",
+    "Its timber is so strong that it is often used to make agricultural tools and carts in rural areas."
+  ]
+}
+
+
+
+
+
+
+]
