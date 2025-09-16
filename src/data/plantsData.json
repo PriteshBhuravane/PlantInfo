@@ -1,7 +1,7 @@
 [
   {
   "id": 1,
-  "common_name": "Palas (Flame of the Forest)",
+  "common_name": "पळस (Flame of the Forest)",
   "scientific_name": "Butea monosperma",
   "family": "Fabaceae (Leguminosae)",
   "type": "Tree",
@@ -63,7 +63,7 @@
 },
 {
   "id": 2,
-  "common_name": "Pimpal (Sacred Fig / Peepal Tree)",
+  "common_name": "पिंपळ (Sacred Fig / Peepal Tree)",
   "scientific_name": "Ficus religiosa",
   "family": "Moraceae",
   "type": "Large deciduous tree",
@@ -125,7 +125,7 @@
 },
 {
   "id": 3,
-  "common_name": "Vad (Banyan Tree)",
+  "common_name": "वड (Banyan Tree)",
   "scientific_name": "Ficus benghalensis",
   "family": "Moraceae",
   "type": "Large evergreen tree",
@@ -187,7 +187,7 @@
 },
 {
   "id": 4,
-  "common_name": "Audumbar (Cluster Fig Tree)",
+  "common_name": "औदुंबर (Cluster Fig Tree)",
   "scientific_name": "Ficus racemosa",
   "family": "Moraceae",
   "type": "Medium-sized deciduous tree",
@@ -249,7 +249,7 @@
 },
 {
   "id": 5,
-  "common_name": "Bakul (Spanish Cherry / Bullet Wood)",
+  "common_name": "बकुळ (Spanish Cherry / Bullet Wood)",
   "scientific_name": "Mimusops elengi",
   "family": "Sapotaceae",
   "type": "Evergreen tree",
@@ -311,7 +311,7 @@
 },
 {
   "id": 6,
-  "common_name": "Arjun Tree",
+  "common_name": "अर्जुन (Arjun Tree)",
   "scientific_name": "Terminalia arjuna",
   "family": "Combretaceae",
   "type": "Large deciduous tree",
@@ -373,7 +373,7 @@
 },
 {
   "id": 7,
-  "common_name": "Bel Tree (Bael / Bengal Quince)",
+  "common_name": "बेल (Bael / Bengal Quince)",
   "scientific_name": "Aegle marmelos",
   "family": "Rutaceae (Citrus family)",
   "type": "Medium-sized deciduous tree",
@@ -436,7 +436,7 @@
 },
 {
   "id": 8,
-  "common_name": "Kusum",
+  "common_name": "कुसुम",
   "scientific_name": "Schleichera oleosa",
   "family": "Sapindaceae",
   "type": "Large deciduous tree",
@@ -496,11 +496,734 @@
     "It is an important agroforestry tree, providing shade and improving soil quality.",
     "Its timber is so strong that it is often used to make agricultural tools and carts in rural areas."
   ]
+},
+{
+  "id": 9,
+  "common_name": "जांभूळ (Jamun / Indian Blackberry)",
+  "scientific_name": "Syzygium cumini",
+  "family": "Myrtaceae",
+  "type": "Evergreen fruit tree",
+  "native_region": "Indian Subcontinent, Southeast Asia",
+  "images": [
+    "/src/assets/jambhul.jpg",
+    "/src/assets/jambhul_1.jgp",
+    "/src/assets/jambhul_2.jpg"
+  ],
+  "description": {
+    "height": "10-20 meters (33-65 feet)",
+    "spread": "8-15 meters (26-50 feet)",
+    "leaf_color": "Glossy dark green",
+    "leaf_shape": "Elliptic to oblong leaves with smooth margins and aromatic oil glands",
+    "description": "Syzygium cumini, commonly known as Jambhul or Jamun, is a fast-growing, evergreen tropical tree known for its delicious, dark purple fruits and medicinal properties. The tree has dense foliage, aromatic leaves, and smooth gray bark that peels in patches. In summer, it bears small white fragrant flowers followed by oblong berries that turn from green to deep purple when ripe. The fruit is juicy, with a sweet and slightly tangy flavor, and a distinct purple stain. Jamun is widely cultivated for its fruits, shade, and medicinal benefits, especially in managing diabetes and digestive disorders. Its wood is durable and resistant to water, making it useful in construction and agricultural implements.",
+    "growth_rate": "Fast",
+    "lifespan": "Long-lived, often 100+ years",
+    "bark": "Smooth, grayish-brown, exfoliates in patches; reddish inner bark visible"
+  },
+  "care": {
+    "water": "Moderate; requires regular watering when young; drought-tolerant when mature",
+    "sunlight": "Full sun to partial shade",
+    "soil_type": "Prefers deep, loamy, well-draining soils; tolerates slightly alkaline soils",
+    "fertilizer": "Organic manure or compost annually during flowering and fruiting",
+    "temperature_range": "15-40°C (59-104°F)",
+    "humidity": "Thrives in moderate to humid climates",
+    "pruning": "Light pruning to shape the canopy and remove dry branches"
+  },
+  "uses": {
+    "medicinal": "Fruit pulp controls diabetes, improves digestion, and has antioxidant properties; seed powder is used in Ayurvedic medicine for managing blood sugar and diarrhea.",
+    "culinary": "Fruits eaten raw or used for making juices, jams, wines, and vinegar.",
+    "environmental": "Provides dense shade, prevents soil erosion, and supports urban greenery.",
+    "timber": "Wood is strong, water-resistant, and used in agricultural tools, furniture, and construction.",
+    "cultural": "Considered auspicious in some regions and often planted near temples and villages."
+  },
+  "propagation": {
+    "method": "Seeds (fresh seeds germinate best), grafting for better fruit yield",
+    "season": "Monsoon or early spring",
+    "germination_time": "3-6 weeks",
+    "success_rate": "High with fresh seeds"
+  },
+  "environmental": {
+    "air_purifying": true,
+    "pollinator_support": true,
+    "carbon_sequestration": "High due to dense foliage and fast growth",
+    "companion_plants": ["Neem", "Mango", "Tamarind", "Bakul (Mimusops elengi)"]
+  },
+  "safety": {
+    "toxic_to_pets": false,
+    "toxic_to_humans": false,
+    "handling_precautions": "Fruit stains skin and clothes due to its dark purple juice"
+  },
+  "interesting_facts": [
+    "Jamun fruits are rich in iron, vitamin C, and antioxidants.",
+    "Seed powder is traditionally used in Ayurveda for managing diabetes.",
+    "The wood is highly durable and water-resistant, often used in well construction.",
+    "Jamun fruits leave a characteristic purple stain on the tongue when eaten.",
+    "Trees can bear fruit for several decades with minimal care."
+  ]
 }
-
-
-
-
-
-
+,
+{
+  "id": 10,
+  "common_name": "चिंच (Tamarind)",
+  "scientific_name": "Tamarindus indica",
+  "family": "Fabaceae",
+  "type": "Large evergreen tree",
+  "native_region": "Tropical Africa, widely naturalized in the Indian Subcontinent and other tropical regions",
+  "images": [
+    "/src/assets/tamarind_1.jpg",
+    "/src/assets/tamarind_2.jpg",
+    "/src/assets/tamarind_3.jpg"
+  ],
+  "description": {
+    "height": "20-30 meters (65-100 feet)",
+    "spread": "Wide, dense canopy up to 15-20 meters (50-65 feet)",
+    "leaf_color": "Bright green",
+    "leaf_shape": "Pinnately compound with 10-20 pairs of small, oblong leaflets",
+    "description": "Tamarindus indica, or Chinch, is a long-lived, large evergreen tree prized for its dense foliage, which provides excellent shade, and its valuable fruit pods. It features a short, thick trunk and a broad, spreading crown that is highly resistant to wind. The tree produces small, inconspicuous yellowish flowers with orange or red streaks. Its most notable feature is the brown, pod-like legume containing a tart, fleshy, and highly acidic pulp, which is a staple ingredient in various cuisines around the world. The tamarind tree is exceptionally resilient, thriving in dry and arid conditions once established.",
+    "growth_rate": "Slow to moderate",
+    "lifespan": "Very long-lived, often exceeding 200 years",
+    "bark": "Dark gray to brown, rough with fissures and scales"
+  },
+  "care": {
+    "water": "Low; highly drought-tolerant once established. Requires regular watering only in its juvenile stages.",
+    "sunlight": "Full sun is essential for optimal growth and fruit production.",
+    "soil_type": "Adaptable to a wide range, but prefers deep, well-draining loamy, sandy, or clay soils.",
+    "fertilizer": "Generally not required for mature trees. Young trees may benefit from occasional organic compost.",
+    "temperature_range": "20-45°C (68-113°F); sensitive to frost.",
+    "humidity": "Adaptable to both dry and humid tropical climates.",
+    "pruning": "Minimal pruning required, mainly to remove deadwood or for structural shaping when young."
+  },
+  "uses": {
+    "medicinal": "Pulp acts as a natural laxative and is used for digestive ailments. Leaf and bark extracts possess antiseptic and anti-inflammatory properties.",
+    "culinary": "The pulp is a primary ingredient for its sweet-sour flavor in chutneys, sauces (like Worcestershire sauce), curries, and refreshing drinks. Young leaves and flowers are also edible.",
+    "ornamental": "Widely planted as a majestic shade tree along avenues, in parks, and in large gardens due to its dense, drooping foliage.",
+    "other": "The hard, dense, and dark red wood is valued for furniture, carvings, and tool handles. Tamarind seed powder is used as a sizing agent in the textile and food industries."
+  },
+  "propagation": {
+    "method": "Primarily from seeds. Grafting and air-layering are used for superior fruit-bearing varieties.",
+    "season": "Monsoon season is the ideal time for sowing seeds.",
+    "germination_time": "1-2 weeks",
+    "success_rate": "High with seeds"
+  },
+  "environmental": {
+    "air_purifying": true,
+    "pollinator_support": true,
+    "carbon_sequestration": "High, due to its large biomass and dense wood.",
+    "companion_plants": ["Neem", "Mango", "Jackfruit", "Jamun"]
+  },
+  "safety": {
+    "toxic_to_pets": false,
+    "toxic_to_humans": false,
+    "handling_precautions": "None specific, though the pods can be hard to crack open."
+  },
+  "interesting_facts": [
+    "The name 'Tamarind' is derived from the Arabic 'Tamar-hind', which means 'Indian date'.",
+    "Tamarind pulp is a key ingredient that gives Worcestershire sauce its distinctive tangy flavor.",
+    "The wood is highly durable and resistant to rot, making it a valuable timber.",
+    "Despite being a legume (from the pea family), it is not a significant nitrogen-fixer.",
+    "Its dense canopy provides excellent shade, making it a popular 'avenue tree' in hot, tropical climates."
+  ]
+},
+{
+  "id": 11,
+  "common_name": "मोह (Mahua / Butter Tree)",
+  "scientific_name": "Madhuca longifolia",
+  "family": "Sapotaceae",
+  "type": "Medium to large deciduous tree",
+  "native_region": "Indian Subcontinent",
+  "images": [
+    "/src/assets/mahua_1.jpeg",
+    "/src/assets/mahua_2.jpeg",
+    "/src/assets/mahua_3.jpeg"
+  ],
+  "description": {
+    "height": "15-20 meters (50-65 feet)",
+    "spread": "Broad, dense, rounded canopy of 10-15 meters",
+    "leaf_color": "Glossy green, young leaves are reddish-brown",
+    "leaf_shape": "Elliptic or oblong, clustered at the ends of branches",
+    "description": "Madhuca longifolia, known as Moh or Mahua, is a fast-growing deciduous tree of immense economic and cultural importance, especially in the tribal regions of central India. It is famed for its fleshy, cream-colored, fragrant flowers that bloom at night and fall to the ground at dawn in early summer. These flowers are edible and have a very sweet taste. The tree sheds its leaves during the dry season, and the new coppery-red foliage appears before flowering. It also produces fleshy, greenish-yellow fruits, and its seeds are a source of valuable oil known as 'mahua butter'. The tree's resilience and its multiple uses make it a cornerstone of rural and forest economies.",
+    "growth_rate": "Fast",
+    "lifespan": "Long-lived, often over 100 years",
+    "bark": "Dark grayish-brown, rough, with vertical cracks and fissures"
+  },
+  "care": {
+    "water": "Low; highly drought-resistant once established.",
+    "sunlight": "Full sun is required for good growth and flowering.",
+    "soil_type": "Tolerates a wide variety of soils, including poor, rocky, sandy, and saline soils.",
+    "fertilizer": "Not demanding; thrives even in low-fertility soils.",
+    "temperature_range": "20-45°C (68-113°F); thrives in tropical and subtropical climates.",
+    "humidity": "Adaptable to dry and semi-humid conditions.",
+    "pruning": "Minimal pruning required, only to remove dead or diseased branches."
+  },
+  "uses": {
+    "medicinal": "Bark is used in traditional medicine for skin ailments and rheumatism. Flowers are used as a coolant and tonic. Seed oil is applied to treat skin diseases.",
+    "culinary": "Sweet flowers are eaten fresh, dried, or cooked. They are famously fermented to produce a potent alcoholic beverage. The oil extracted from seeds ('mahua butter') is used for cooking.",
+    "cultural_economic": "Considered a sacred tree by many tribal communities. The collection and sale of its flowers and seeds is a primary source of livelihood, earning it the name 'Tree of Life' for these communities.",
+    "other": "The oil cake residue is used as a bio-fertilizer. The wood is hard and durable, used in construction and for making carts."
+  },
+  "propagation": {
+    "method": "Primarily from seeds. Can also be propagated by stem cuttings.",
+    "season": "Seeds must be sown immediately after collection during the monsoon as they lose viability quickly.",
+    "germination_time": "2-4 weeks",
+    "success_rate": "Moderate to high with fresh seeds"
+  },
+  "environmental": {
+    "air_purifying": true,
+    "pollinator_support": true,
+    "carbon_sequestration": "High due to its fast growth and large biomass.",
+    "companion_plants": ["Sal (Shorea robusta)", "Teak (Tectona grandis)", "Tamarind", "Neem"]
+  },
+  "safety": {
+    "toxic_to_pets": false,
+    "toxic_to_humans": "Flowers and processed oil are safe. Excessive consumption of the alcoholic beverage can be harmful. Raw seeds may have toxic properties.",
+    "handling_precautions": "The seed oil cake contains saponins which are toxic to fish and should be handled accordingly."
+  },
+  "interesting_facts": [
+    "The flowers bloom at night and carpet the ground beneath the tree at dawn, where they are collected.",
+    "Bats are the primary pollinators of the Mahua tree, attracted by the strong scent of the nocturnal flowers.",
+    "It is a vital source of food, fuel, and income for tribal communities in central India.",
+    "The seeds yield an edible fat, known as 'mahua butter', which is also used in skincare and as a lamp oil.",
+    "The flowers are highly nutritious and are fermented to create a popular traditional alcoholic drink called 'mahua'."
+  ]
+},
+{
+  "id": 12,
+  "common_name": "उंडी (Undi / Tamanu / Alexandrian Laurel)",
+  "scientific_name": "Calophyllum inophyllum",
+  "family": "Calophyllaceae",
+  "type": "Medium to large evergreen tree",
+  "native_region": "Coastal regions of East Africa, India, Southeast Asia, and Australia",
+  "images": [
+    "/src/assets/undi_1.jpeg",
+    "/src/assets/undi_2.jpeg",
+    "/src/assets/undi_3.jpeg"
+  ],
+  "description": {
+    "height": "8-20 meters (25-65 feet)",
+    "spread": "Broad, irregular, and spreading crown",
+    "leaf_color": "Dark green, glossy, and leathery",
+    "leaf_shape": "Large, ovate to elliptical with distinctive, fine parallel veins",
+    "description": "Calophyllum inophyllum, commonly known as Undi, is a slow-growing, majestic evergreen tree often found along coastal shores. It is characterized by its low-branching, wide-spreading canopy, which provides deep shade. The tree has thick, rough, grayish-brown bark and produces clusters of fragrant, white flowers with prominent yellow stamens. Its most valuable part is the fruit, a round, green drupe containing a large nut, from which the highly-prized Tamanu oil is extracted. Due to its high tolerance for salt, wind, and sandy soil, it is an important species for coastal afforestation and beautification.",
+    "growth_rate": "Slow to moderate",
+    "lifespan": "Long-lived, often exceeding 100 years",
+    "bark": "Thick, grayish-brown, rough, and deeply fissured"
+  },
+  "care": {
+    "water": "Moderate; highly drought and salt tolerant once established.",
+    "sunlight": "Full sun is preferred for best growth.",
+    "soil_type": "Thrives in well-draining sandy or loamy soils; ideal for coastal areas.",
+    "fertilizer": "Generally not required, as it adapts well to nutrient-poor coastal soils.",
+    "temperature_range": "20-35°C (68-95°F); it is a tropical tree and not frost-tolerant.",
+    "humidity": "Prefers high humidity typical of coastal environments.",
+    "pruning": "Minimal pruning is needed, mostly to remove dead branches or for shaping."
+  },
+  "uses": {
+    "medicinal": "The oil from the seeds (Tamanu oil or Undi oil) is world-renowned in cosmetics and traditional medicine for its remarkable skin-healing, anti-inflammatory, and moisturizing properties.",
+    "ornamental": "Widely planted as a shade and ornamental tree along coastlines, in parks, and avenues due to its beautiful foliage and fragrant flowers.",
+    "environmental": "Excellent for coastal windbreaks, stabilizing sand dunes, and preventing soil erosion. It's a key species in coastal ecosystem restoration.",
+    "other": "The wood is hard, durable, and water-resistant, traditionally used for boat building (especially keels), construction, and furniture. The seed oil is also being explored as a biofuel."
+  },
+  "propagation": {
+    "method": "Primarily from seeds extracted from the fallen fruit.",
+    "season": "Best sown during the monsoon season.",
+    "germination_time": "Long and variable, ranging from 30 days to several months.",
+    "success_rate": "Moderate; fresh seeds have a higher chance of germination."
+  },
+  "environmental": {
+    "air_purifying": true,
+    "pollinator_support": true,
+    "carbon_sequestration": "Moderate",
+    "companion_plants": ["Coconut Palm (Cocos nucifera)", "Sea Almond (Terminalia catappa)", "Casuarina"]
+  },
+  "safety": {
+    "toxic_to_pets": "Parts of the plant, especially the fruit/seed, are reported to be toxic if ingested.",
+    "toxic_to_humans": "The fruit and seeds are considered inedible and potentially toxic. The oil is strictly for external/topical use.",
+    "handling_precautions": "Tamanu oil should not be ingested."
+  },
+  "interesting_facts": [
+    "The oil from its seed, Tamanu oil, is often called 'green gold' due to its potent skin regenerative properties.",
+    "Its scientific name *Calophyllum* is Greek for 'beautiful leaf', referring to its large, ornamental leaves.",
+    "The tree is considered sacred in many Pacific cultures and was often planted around temples.",
+    "Its ability to withstand salt spray and grow in pure sand makes it a pioneer species for coastal habitats.",
+    "The wood is so durable in water that it was the preferred material for making the keel of traditional boats."
+  ]
+},
+{
+  "id": 13,
+  "common_name": "बिब्बा (Bibba / Marking Nut Tree)",
+  "scientific_name": "Semecarpus anacardium",
+  "family": "Anacardiaceae",
+  "type": "Medium-sized deciduous tree",
+  "native_region": "Indian Subcontinent and parts of Southeast Asia",
+  "images": [
+    "/src/assets/bibba_1.jpeg",
+    "/src/assets/bibba_2.jpeg",
+    "/src/assets/bibba_3.jpeg"
+  ],
+  "description": {
+    "height": "10-15 meters (33-50 feet)",
+    "spread": "Rounded to spreading crown",
+    "leaf_color": "Dark green on top, pale and finely hairy underneath",
+    "leaf_shape": "Large, simple, oblong or obovate leaves clustered near the ends of branches",
+    "description": "Semecarpus anacardium, known as Bibba or the Marking Nut Tree, is a deciduous tree native to the hotter parts of India. It is infamous for its fruit, which consists of a fleshy, edible orange-red receptacle (a 'false fruit') and a black, heart-shaped nut. The shell of this nut contains a potent, black, oily resin that is highly corrosive and vesicant (blister-causing). This resin has been traditionally used as an indelible ink and plays a significant role in Ayurvedic medicine, but only after a rigorous purification process. Due to its toxicity, the tree and its nuts must be handled with extreme caution.",
+    "growth_rate": "Moderate",
+    "lifespan": "Several decades",
+    "bark": "Dark brown to blackish, rough, exfoliating in irregular flakes"
+  },
+  "care": {
+    "water": "Low; it is a hardy, drought-tolerant species.",
+    "sunlight": "Prefers full sun but can tolerate partial shade.",
+    "soil_type": "Grows in a wide variety of soils, including poor, rocky, and lateritic soils.",
+    "fertilizer": "Generally not required, as it is well-adapted to low-nutrient conditions.",
+    "temperature_range": "20-45°C (68-113°F); thrives in tropical and subtropical climates.",
+    "humidity": "Adaptable to both dry and moist deciduous forest conditions.",
+    "pruning": "Not a common practice; only needed to remove dead or damaged wood."
+  },
+  "uses": {
+    "medicinal": "A highly potent medicinal plant in Ayurveda. The purified nut is used to treat arthritis, tumors, and skin diseases. IMPORTANT: The nut is poisonous and must undergo a specific detoxification process ('Shodhana') by experts before any medicinal use.",
+    "other": "The black resin from the nut shell provides a permanent, black ink for marking cloth, giving the tree its name. The fleshy, swollen fruit stalk (receptacle) is edible and sweet, but must be separated from the toxic nut with care."
+  },
+  "propagation": {
+    "method": "Propagated from seeds (the nuts).",
+    "season": "Seeds are best sown during the monsoon season.",
+    "germination_time": "3-5 weeks",
+    "success_rate": "Moderate"
+  },
+  "environmental": {
+    "air_purifying": true,
+    "pollinator_support": true,
+    "carbon_sequestration": "Moderate",
+    "companion_plants": ["Teak (Tectona grandis)", "Sal (Shorea robusta)", "Amla (Phyllanthus emblica)"]
+  },
+  "safety": {
+    "toxic_to_pets": "Yes, highly toxic. All parts, especially the nut's resin, can cause severe reactions if touched or ingested.",
+    "toxic_to_humans": "Yes, highly toxic and dangerous. The raw nut's resin is extremely corrosive. Direct contact causes severe, painful blisters and dermatitis. Ingestion can be fatal.",
+    "handling_precautions": "EXTREME CAUTION IS REQUIRED. Never handle the nuts or any part of the tree with bare hands. Wear thick protective gloves and eye protection. Fumes from burning the wood or nuts are also highly toxic and can cause severe respiratory and skin reactions."
+  },
+  "interesting_facts": [
+    "It gets its name 'Marking Nut Tree' because the resin was used by 'dhobis' (launderers) as an indelible ink to mark clothing.",
+    "In Ayurveda, it is classified as an 'Upavisha' (a semi-poisonous substance) that is a powerful medicine only after purification.",
+    "It belongs to the same plant family as cashews, mangoes, and poison ivy, which are all known to contain allergenic compounds.",
+    "The potent resin has been criminally misused to create artificial bruises on the skin.",
+    "While the nut is highly toxic, the fleshy stalk it's attached to is sweet and edible, but requires careful separation."
+  ]
+},
+{
+  "id": 14,
+  "common_name": "सुरंगी (Surangi / Suriga / Mammea)",
+  "scientific_name": "Mammea suriga",
+  "family": "Calophyllaceae",
+  "type": "Evergreen medium-sized tree",
+  "native_region": "Western Ghats of India, Sri Lanka",
+  "images": [
+    "/src/assets/surangi_1.jpeg",
+    "/src/assets/surangi_2.jpeg",
+    "/src/assets/surangi_3.jpeg"
+  ],
+  "description": {
+    "height": "8-15 meters (26-50 feet)",
+    "spread": "Dense, rounded crown",
+    "leaf_color": "Shiny dark green on top, paler underneath",
+    "leaf_shape": "Thick, leathery, simple, elliptic to oblong leaves",
+    "description": "Mammea suriga, locally known as Surangi or Suriga, is an evergreen tree native to the Western Ghats of India and Sri Lanka. It is widely admired for its fragrant flowers, which are small, creamy-white, and bloom in profusion during the summer. The tree produces round to ovoid fruits with a yellowish-brown rind and sweet aromatic pulp containing one or more seeds. Traditionally, the tree has been valued for its ornamental, cultural, and medicinal significance.",
+    "growth_rate": "Moderate",
+    "lifespan": "Several decades",
+    "bark": "Dark brown to gray, rough, with vertical fissures"
+  },
+  "care": {
+    "water": "Moderate; requires regular watering during establishment, drought-tolerant once mature.",
+    "sunlight": "Thrives best in full sunlight but tolerates partial shade.",
+    "soil_type": "Well-drained lateritic, loamy, or sandy soils.",
+    "fertilizer": "Responds to organic compost or manure during the growing season.",
+    "temperature_range": "20-35°C (68-95°F); prefers warm tropical climates.",
+    "humidity": "Favors humid conditions typical of coastal and Western Ghats regions.",
+    "pruning": "Minimal; done to shape the tree or remove damaged branches."
+  },
+  "uses": {
+    "medicinal": "Traditionally, parts of the tree are used in folk medicine for treating skin ailments, headaches, and fever. The fragrant flowers are also considered to have soothing properties.",
+    "other": "The fragrant flowers are commonly used in making garlands and hair decorations, especially in Konkan and coastal Karnataka. The tree is also cultivated as an ornamental for its beauty and fragrance."
+  },
+  "propagation": {
+    "method": "Propagated mainly through seeds; vegetative propagation possible but less common.",
+    "season": "Seeds are best sown at the beginning of the monsoon season.",
+    "germination_time": "4-6 weeks",
+    "success_rate": "Moderate to high"
+  },
+  "environmental": {
+    "air_purifying": true,
+    "pollinator_support": true,
+    "carbon_sequestration": "Moderate",
+    "companion_plants": ["Coconut (Cocos nucifera)", "Mango (Mangifera indica)", "Jackfruit (Artocarpus heterophyllus)"]
+  },
+  "safety": {
+    "toxic_to_pets": "Not reported as toxic, but fruits and seeds should not be given to pets without caution.",
+    "toxic_to_humans": "Generally safe; fruits are edible. Seeds may be bitter and are not commonly consumed.",
+    "handling_precautions": "No special precautions required, except ensuring fruits are properly ripened before eating."
+  },
+  "interesting_facts": [
+    "Surangi flowers are highly fragrant and are used in traditional garlands during festivals and weddings.",
+    "In Konkani and coastal Karnataka culture, Surangi flowers are worn by women in their hair as a natural perfume.",
+    "The fruits resemble small mangoes and contain sweet aromatic pulp.",
+    "It is considered an important ornamental tree in the Western Ghats region.",
+    "The tree flowers profusely during summer, filling the air with its sweet fragrance."
+  ]
+},
+{
+  "id": 15,
+  "common_name": "संकासुर (Sankasur / Peacock Flower / Dwarf Poinciana)",
+  "scientific_name": "Caesalpinia pulcherrima",
+  "family": "Fabaceae (Leguminosae)",
+  "type": "Evergreen shrub or small tree",
+  "native_region": "Tropical Americas; widely cultivated in India and Southeast Asia",
+  "images": [
+    "/src/assets/sankasur_1.jpeg",
+    "/src/assets/sankasur_2.jpeg",
+    "/src/assets/sankasur_3.jpeg"
+  ],
+  "description": {
+    "height": "3-5 meters (10-16 feet)",
+    "spread": "Wide-spreading, airy crown",
+    "leaf_color": "Bright green, turning yellowish before shedding",
+    "leaf_shape": "Bipinnate, with many small oblong leaflets",
+    "description": "Caesalpinia pulcherrima, commonly known as Sankasur, Peacock Flower, or Dwarf Poinciana, is a striking ornamental shrub or small tree. It is admired for its flamboyant clusters of red, orange, or yellow flowers with long, showy stamens. The plant is fast-growing, drought-tolerant, and thrives in tropical and subtropical climates. It is often planted in gardens, parks, and along roadsides for its beauty and hardiness.",
+    "growth_rate": "Fast",
+    "lifespan": "10-20 years (with proper care)",
+    "bark": "Grayish-brown, smooth to slightly rough"
+  },
+  "care": {
+    "water": "Low to moderate; drought-tolerant once established.",
+    "sunlight": "Requires full sunlight for best flowering.",
+    "soil_type": "Well-drained sandy or loamy soils; tolerates poor soils.",
+    "fertilizer": "Occasional organic compost or balanced fertilizer promotes better blooms.",
+    "temperature_range": "20-40°C (68-104°F); sensitive to frost.",
+    "humidity": "Thrives in warm, humid to semi-arid conditions.",
+    "pruning": "Responds well to pruning; prune after flowering to maintain shape."
+  },
+  "uses": {
+    "medicinal": "In traditional medicine, different parts are used as remedies for fever, bronchitis, and skin ailments. However, caution is required as seeds and roots may be toxic.",
+    "other": "Widely planted as an ornamental hedge, avenue tree, or in gardens for its vibrant flowers. Attracts butterflies, bees, and birds."
+  },
+  "propagation": {
+    "method": "Propagated by seeds; cuttings also possible but less common.",
+    "season": "Best sown at the onset of monsoon or in spring.",
+    "germination_time": "2-4 weeks",
+    "success_rate": "High"
+  },
+  "environmental": {
+    "air_purifying": true,
+    "pollinator_support": true,
+    "carbon_sequestration": "Low to moderate (due to small size)",
+    "companion_plants": ["Bougainvillea", "Hibiscus", "Ixora"]
+  },
+  "safety": {
+    "toxic_to_pets": "Mildly toxic; seeds and pods may cause stomach upset if ingested.",
+    "toxic_to_humans": "Seeds and roots are mildly toxic if eaten raw.",
+    "handling_precautions": "Avoid ingestion of seeds and roots. Otherwise, safe to handle."
+  },
+  "interesting_facts": [
+    "The name 'Pulcherrima' means 'most beautiful' in Latin, referring to its bright flowers.",
+    "Commonly used as a hedge plant due to its dense, thorny branches.",
+    "In many tropical regions, it flowers almost year-round.",
+    "Its bright flowers are highly attractive to butterflies and hummingbirds.",
+    "It is the national flower of Barbados, where it is known as the 'Pride of Barbados'."
+  ]
+},
+{
+  "id": 16,
+  "common_name": "हिरडा (Hirda / Haritaki / Chebulic Myrobalan)",
+  "scientific_name": "Terminalia chebulla",
+  "family": "Combretaceae",
+  "type": "Large deciduous tree",
+  "native_region": "South and Southeast Asia (India, Nepal, Sri Lanka, Myanmar, Thailand)",
+  "images": [
+    "/src/assets/hirda_1.jpeg",
+    "/src/assets/hirda_2.jpeg",
+    "/src/assets/hirda_3.jpeg"
+  ],
+  "description": {
+    "height": "20-30 meters (65-100 feet)",
+    "spread": "Broad, spreading crown",
+    "leaf_color": "Dark green, turning yellow before shedding",
+    "leaf_shape": "Simple, ovate to elliptic, arranged in opposite pairs",
+    "description": "Terminalia chebulla, known as Hirda or Haritaki, is a large deciduous tree highly valued in Ayurveda and traditional medicine. It produces small yellow-white flowers and ovoid to ellipsoidal fruits (drupes), which are harvested when green or mature. The dried fruit, called 'Hirda', is one of the three key ingredients in the famous Ayurvedic formulation 'Triphala'. It is considered a potent rejuvenative and is often referred to as the 'King of Medicines' in Ayurveda.",
+    "growth_rate": "Moderate",
+    "lifespan": "Several decades to centuries",
+    "bark": "Dark brown to blackish, with vertical cracks and rough texture"
+  },
+  "care": {
+    "water": "Moderate; requires regular watering when young, becomes drought-tolerant once established.",
+    "sunlight": "Thrives in full sunlight.",
+    "soil_type": "Well-drained loamy to sandy soils; tolerates poor soils.",
+    "fertilizer": "Occasional organic compost or manure during the growing season.",
+    "temperature_range": "15-35°C (59-95°F); cannot withstand severe frost.",
+    "humidity": "Prefers tropical to subtropical climates with moderate humidity.",
+    "pruning": "Minimal; prune only to remove dead or diseased branches."
+  },
+  "uses": {
+    "medicinal": "Highly important in Ayurveda, Unani, and Siddha medicine. Used as a digestive aid, laxative, and rejuvenative. Traditionally prescribed for cough, sore throat, constipation, liver disorders, and as a general health tonic. One of the three fruits in Triphala (with Amla and Baheda).",
+    "other": "The fruit is also used in tanning leather and dyeing fabrics due to its high tannin content."
+  },
+  "propagation": {
+    "method": "Propagated mainly from seeds.",
+    "season": "Seeds are best sown in monsoon season.",
+    "germination_time": "4-6 weeks",
+    "success_rate": "Moderate"
+  },
+  "environmental": {
+    "air_purifying": true,
+    "pollinator_support": true,
+    "carbon_sequestration": "High (due to large size and longevity)",
+    "companion_plants": ["Amla (Phyllanthus emblica)", "Baheda (Terminalia bellirica)", "Neem (Azadirachta indica)"]
+  },
+  "safety": {
+    "toxic_to_pets": "Generally safe in small quantities; excessive consumption of raw fruit may cause digestive upset.",
+    "toxic_to_humans": "Safe and widely used in herbal medicine. Excess consumption may cause diarrhea or dehydration.",
+    "handling_precautions": "Safe to handle; fruits are usually dried and processed before consumption."
+  },
+  "interesting_facts": [
+    "Hirda is called the 'King of Medicines' in Ayurveda due to its wide therapeutic uses.",
+    "It is one of the three fruits that make up the famous Ayurvedic formulation Triphala.",
+    "In Buddhist texts, Haritaki is revered as a divine gift of health and longevity.",
+    "The fruit is rich in tannins, gallic acid, and chebulic acid, contributing to its medicinal potency.",
+    "It is not only medicinal but also used in leather tanning and natural dyeing industries."
+  ]
+},
+{
+  "id": 17,
+  "common_name": "बेहडा (Behada / Baheda / Belleric Myrobalan)",
+  "scientific_name": "Terminalia bellirica",
+  "family": "Combretaceae",
+  "type": "Large deciduous tree",
+  "native_region": "India, Nepal, Sri Lanka, Southeast Asia",
+  "images": [
+    "/src/assets/behada_1.jpeg",
+    "/src/assets/behada_2.jpeg",
+    "/src/assets/behada_3.jpeg"
+  ],
+  "description": {
+    "height": "20-30 meters (65-100 feet)",
+    "spread": "Wide, spreading crown with dense foliage",
+    "leaf_color": "Glossy green, turning yellow before shedding",
+    "leaf_shape": "Large, broadly elliptic to ovate, clustered at branch ends",
+    "description": "Terminalia bellirica, known as Behada or Baheda, is a large deciduous tree revered in Ayurveda. Its fruits are grayish and ovoid, containing a single seed. The dried fruit is one of the three ingredients in the classical Ayurvedic formulation 'Triphala' (along with Amla and Hirda). The tree is also valued for its timber, medicinal properties, and ecological importance. In Ayurveda, it is known for supporting respiratory health, digestion, and eye care.",
+    "growth_rate": "Moderate to fast",
+    "lifespan": "Several decades to centuries",
+    "bark": "Ash-gray, smooth in young trees, becoming rough with age"
+  },
+  "care": {
+    "water": "Moderate; requires regular watering when young, drought-tolerant when mature.",
+    "sunlight": "Prefers full sun for healthy growth.",
+    "soil_type": "Well-drained loamy or sandy soils; tolerates lateritic soils.",
+    "fertilizer": "Occasional organic manure or compost helps in better growth.",
+    "temperature_range": "15-35°C (59-95°F); sensitive to extreme cold.",
+    "humidity": "Thrives in tropical and subtropical climates with moderate humidity.",
+    "pruning": "Minimal; done to remove dead or diseased branches."
+  },
+  "uses": {
+    "medicinal": "An important plant in Ayurveda and Unani medicine. The fruit is used to treat cough, sore throat, eye diseases, and digestive disorders. A key ingredient of Triphala (with Amla and Hirda). Also used for hair growth and longevity.",
+    "other": "The fruit rind is rich in tannins and used in leather tanning and ink making. Wood is used for construction and firewood."
+  },
+  "propagation": {
+    "method": "Propagated through seeds.",
+    "season": "Seeds are best sown in monsoon season.",
+    "germination_time": "3-5 weeks",
+    "success_rate": "Moderate"
+  },
+  "environmental": {
+    "air_purifying": true,
+    "pollinator_support": true,
+    "carbon_sequestration": "High (due to large size and dense canopy)",
+    "companion_plants": ["Amla (Phyllanthus emblica)", "Hirda (Terminalia chebulla)", "Neem (Azadirachta indica)"]
+  },
+  "safety": {
+    "toxic_to_pets": "Generally safe; excessive consumption of fruits may cause digestive upset.",
+    "toxic_to_humans": "Safe in medicinal use. Overconsumption may cause constipation or dryness.",
+    "handling_precautions": "Safe to handle; fruits are dried and processed for medicinal use."
+  },
+  "interesting_facts": [
+    "Behada is one of the three fruits in the famous Triphala formulation of Ayurveda.",
+    "Its fruits are rich in tannins and used in traditional ink preparation.",
+    "Known as 'Bibhitaki' in Sanskrit, meaning 'the fruit that keeps away diseases'.",
+    "The tree is ecologically significant, providing shade and supporting biodiversity.",
+    "Its fruits are used in both Ayurvedic and Unani medicine for respiratory and digestive health."
+  ]
+},
+{
+  "id": 18,
+  "common_name": "आवळा (Amla / Indian Gooseberry / Emblic Myrobalan)",
+  "scientific_name": "Phyllanthus emblica",
+  "family": "Phyllanthaceae",
+  "type": "Medium-sized deciduous tree",
+  "native_region": "India, Nepal, Sri Lanka, Southeast Asia",
+  "images": [
+    "/src/assets/amla_1.jpeg",
+    "/src/assets/amla_2.jpeg",
+    "/src/assets/amla_3.jpeg"
+  ],
+  "description": {
+    "height": "8-18 meters (26-60 feet)",
+    "spread": "Dense, spreading crown",
+    "leaf_color": "Light to dark green, turning yellowish before shedding",
+    "leaf_shape": "Small, simple, oblong leaves arranged closely along branchlets, giving a feathery appearance",
+    "description": "Phyllanthus emblica, commonly known as Amla or Indian Gooseberry, is a medium-sized deciduous tree widely valued in Ayurveda, Unani, and folk medicine. The tree produces small, greenish-yellow flowers and round, smooth, pale green to yellow fruits with a sour, astringent taste. The fruit is extremely rich in Vitamin C and antioxidants, making it a powerful rejuvenative. Amla is one of the three fruits in the famous Ayurvedic formulation 'Triphala' (with Hirda and Behada).",
+    "growth_rate": "Moderate",
+    "lifespan": "Several decades",
+    "bark": "Light gray, smooth to slightly rough, peeling in patches"
+  },
+  "care": {
+    "water": "Moderate; requires regular watering when young, drought-tolerant when mature.",
+    "sunlight": "Thrives in full sunlight.",
+    "soil_type": "Well-drained loamy, sandy, or calcareous soils.",
+    "fertilizer": "Organic compost or farmyard manure during fruiting season increases yield.",
+    "temperature_range": "15-40°C (59-104°F); tolerates both dry and humid climates.",
+    "humidity": "Adaptable to varying humidity, grows well in both dry deciduous and moist areas.",
+    "pruning": "Prune lightly to remove dead wood and to shape the tree."
+  },
+  "uses": {
+    "medicinal": "Amla is one of the most important plants in Ayurveda. The fruit is a rich source of Vitamin C, antioxidants, and polyphenols. It is used for boosting immunity, improving digestion, treating hair and skin problems, and rejuvenating the body. It is also a key ingredient of Triphala and Chyawanprash.",
+    "other": "Fruits are consumed fresh, pickled, candied, dried, or as juice and powder. Also used in hair oils, shampoos, and herbal supplements."
+  },
+  "propagation": {
+    "method": "Propagated mainly from seeds and grafting (for superior varieties).",
+    "season": "Seeds are best sown during monsoon; grafting is done in summer.",
+    "germination_time": "3-5 weeks",
+    "success_rate": "Moderate to high"
+  },
+  "environmental": {
+    "air_purifying": true,
+    "pollinator_support": true,
+    "carbon_sequestration": "Moderate to high (fruit-bearing tree with dense foliage)",
+    "companion_plants": ["Hirda (Terminalia chebulla)", "Behada (Terminalia bellirica)", "Neem (Azadirachta indica)"]
+  },
+  "safety": {
+    "toxic_to_pets": "Safe; fruits are edible for most animals in moderation.",
+    "toxic_to_humans": "Completely safe; widely consumed as food and medicine.",
+    "handling_precautions": "No special precautions required."
+  },
+  "interesting_facts": [
+    "Amla is one of the richest natural sources of Vitamin C.",
+    "It is one of the three fruits in the Ayurvedic formulation Triphala.",
+    "The fruit retains its Vitamin C content even after drying or cooking.",
+    "In Hindu tradition, the tree is considered sacred and associated with Lord Vishnu.",
+    "Amla is a key ingredient in Chyawanprash, a famous Ayurvedic health tonic."
+  ]
+},
+{
+  "id": 19,
+  "common_name": "कडुलिंब (Kadulimb / Neem Tree / Indian Lilac)",
+  "scientific_name": "Azadirachta indica",
+  "family": "Meliaceae",
+  "type": "Large evergreen tree",
+  "native_region": "Indian Subcontinent (India, Nepal, Pakistan, Bangladesh, Sri Lanka, Myanmar)",
+  "images": [
+    "/src/assets/neem_1.jpeg",
+    "/src/assets/neem_2.jpeg",
+    "/src/assets/neem_3.jpeg"
+  ],
+  "description": {
+    "height": "15-20 meters (50-65 feet), sometimes up to 30 meters",
+    "spread": "Wide, spreading crown with dense foliage",
+    "leaf_color": "Dark green, slightly glossy",
+    "leaf_shape": "Pinnate leaves with 20–30 serrated leaflets",
+    "description": "Azadirachta indica, commonly known as Kadulimb or Neem, is a fast-growing evergreen tree native to the Indian subcontinent. It is highly valued for its medicinal, ecological, and cultural significance. Neem produces small white fragrant flowers and olive-like green drupes that turn yellow when ripe. Every part of the tree—leaves, bark, seeds, flowers, and fruits—is used in traditional medicine, agriculture, and industry. Neem is often called the 'Village Pharmacy' due to its wide range of uses.",
+    "growth_rate": "Fast",
+    "lifespan": "150-200 years",
+    "bark": "Reddish-brown to gray, rough, deeply fissured"
+  },
+  "care": {
+    "water": "Low; highly drought-tolerant once established.",
+    "sunlight": "Requires full sunlight for healthy growth.",
+    "soil_type": "Well-drained sandy, loamy, or lateritic soils; tolerates poor and dry soils.",
+    "fertilizer": "Generally not required; tree grows well in low-nutrient soils.",
+    "temperature_range": "21-45°C (70-113°F); cannot withstand severe frost.",
+    "humidity": "Tolerant of both dry and humid climates.",
+    "pruning": "Minimal; only to remove dead or diseased branches."
+  },
+  "uses": {
+    "medicinal": "Neem is one of the most important medicinal trees in Ayurveda and Siddha medicine. Leaves, bark, and seeds are used to treat skin diseases, infections, fever, diabetes, dental problems, and as an immunity booster.",
+    "other": "Neem oil (from seeds) is used in natural pesticides, cosmetics, and soaps. Leaves are used to store grains as a natural insect repellent. The wood is strong and used in furniture. Neem twigs are traditionally used as toothbrushes ('Datun')."
+  },
+  "propagation": {
+    "method": "Propagated by seeds (fresh seeds have high viability).",
+    "season": "Seeds are best sown during the monsoon season.",
+    "germination_time": "1-3 weeks",
+    "success_rate": "High if fresh seeds are used"
+  },
+  "environmental": {
+    "air_purifying": true,
+    "pollinator_support": true,
+    "carbon_sequestration": "High (due to large canopy and long lifespan)",
+    "companion_plants": ["Amla (Phyllanthus emblica)", "Hirda (Terminalia chebulla)", "Behada (Terminalia bellirica)"]
+  },
+  "safety": {
+    "toxic_to_pets": "Neem oil and seeds can be toxic to pets if ingested in large amounts.",
+    "toxic_to_humans": "Generally safe in small medicinal doses. Neem oil in high amounts can be toxic and should not be ingested.",
+    "handling_precautions": "Safe to handle; caution required with concentrated neem oil."
+  },
+  "interesting_facts": [
+    "Neem is often called the 'Village Pharmacy' in India due to its wide range of uses.",
+    "UNESCO declared Neem as the 'Tree of the 21st Century' for its medicinal and environmental benefits.",
+    "Neem leaves and oil are natural insect repellents and eco-friendly pesticides.",
+    "It is considered sacred in Indian culture and often planted near homes and temples.",
+    "Neem twigs ('Datun') are still widely used as natural toothbrushes in rural India."
+  ]
+},
+{
+  "id": 20,
+  "common_name": "मुचकुंद (Muchkunda / Kanakchampa)",
+  "scientific_name": "Pterospermum acerifolium",
+  "family": "Malvaceae",
+  "type": "Large evergreen tree",
+  "native_region": "Indian Subcontinent and Southeast Asia",
+  "images": [
+    "/src/assets/muchkunda_1.jpeg",
+    "/src/assets/muchkunda_2.jpeg",
+    "/src/assets/muchkunda_3.jpeg"
+  ],
+  "description": {
+    "height": "12-20 meters (40-65 feet)",
+    "spread": "Wide crown with dense foliage",
+    "leaf_color": "Dark green on upper surface, silvery or rusty underneath",
+    "leaf_shape": "Large, maple-like, palmate leaves (15–30 cm long)",
+    "description": "Pterospermum acerifolium, commonly called Muchkunda or Kanakchampa, is a large evergreen tree known for its distinctive maple-like leaves and fragrant nocturnal flowers. The flowers bloom at night, spreading a sweet fragrance, and fall by morning. Its wood is light yet durable, and the tree has cultural as well as medicinal significance.",
+    "growth_rate": "Moderate",
+    "lifespan": "100-150 years",
+    "bark": "Grayish-brown, rough, with vertical fissures"
+  },
+  "care": {
+    "water": "Moderate; prefers regular watering when young, drought-tolerant when mature.",
+    "sunlight": "Full sunlight to partial shade.",
+    "soil_type": "Well-drained loamy or sandy soils; tolerates slightly acidic soils.",
+    "fertilizer": "Not mandatory; benefits from organic compost annually.",
+    "temperature_range": "20-40°C (68-104°F); sensitive to severe frost.",
+    "humidity": "Prefers warm and humid climates.",
+    "pruning": "Minimal; prune to remove dry or crowded branches."
+  },
+  "uses": {
+    "medicinal": "Flowers are used in traditional medicine for their cooling and aromatic properties. Leaves and bark are sometimes used in folk remedies for digestive and skin-related issues.",
+    "other": "Wood is light but strong, used for furniture, boxes, and household purposes. Cultivated as an ornamental tree for its fragrant flowers."
+  },
+  "propagation": {
+    "method": "Propagated by seeds or stem cuttings.",
+    "season": "Best sown during early monsoon.",
+    "germination_time": "2-4 weeks",
+    "success_rate": "Moderate"
+  },
+  "environmental": {
+    "air_purifying": true,
+    "pollinator_support": true,
+    "carbon_sequestration": "Moderate to high (due to dense canopy and evergreen nature)",
+    "companion_plants": ["Neem (Azadirachta indica)", "Amla (Phyllanthus emblica)", "Peepal (Ficus religiosa)"]
+  },
+  "safety": {
+    "toxic_to_pets": "Not known to be toxic to pets.",
+    "toxic_to_humans": "Generally safe; not commonly consumed internally.",
+    "handling_precautions": "Safe to handle; flowers may cause mild allergy in sensitive individuals."
+  },
+  "interesting_facts": [
+    "Muchkunda flowers bloom at night and fall by morning, filling the ground with a fragrant carpet of petals.",
+    "Associated with King Muchukunda from the Mahabharata, after whom the tree is named.",
+    "Often planted near temples for its fragrant flowers.",
+    "The large palmate leaves are sometimes used as eco-friendly plates in rural areas."
+  ]
+}
 ]

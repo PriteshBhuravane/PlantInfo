@@ -23,6 +23,12 @@ import bel3 from "@/assets/bel_2.jpeg"
 import kusum from "@/assets/kusum.jpg"
 import kusum2 from "@/assets/kusum_1.webp"
 import kusum3 from "@/assets/kusum_2.jpg"
+import jambhul from "@/assets/jambhul.jpg"
+import jambhul1 from "@/assets/jambhul_1.jpg"
+import jambhul2 from "@/assets/jambhul_2.jpg"
+import tamrind from "@/assets/tamarind_1.jpg"
+import tamrind2 from "@/assets/tamarind_2.jpg"
+import tamrind3 from "@/assets/tamarind_3.jpg"
 
 // Image mapping for plant IDs
 export const plantImages: Record<number, string[]> = {
@@ -34,6 +40,8 @@ export const plantImages: Record<number, string[]> = {
   6: [arjun, arjun2, arjun3],
   7: [bel, bel2, bel3],
   8: [kusum3, kusum, kusum2],
+  9: [jambhul, jambhul1, jambhul2],
+  10: [tamrind, tamrind2, tamrind3],
 
 };
 
