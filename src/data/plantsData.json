@@ -693,9 +693,9 @@
   "type": "Medium to large evergreen tree",
   "native_region": "Coastal regions of East Africa, India, Southeast Asia, and Australia",
   "images": [
-    "/src/assets/undi_1.jpeg",
-    "/src/assets/undi_2.jpeg",
-    "/src/assets/undi_3.jpeg"
+    "/src/assets/undi.jpg",
+    "/src/assets/undi_2.jpg",
+    "/src/assets/undi_3.jpg"
   ],
   "description": {
     "height": "8-20 meters (25-65 feet)",
@@ -755,9 +755,9 @@
   "type": "Medium-sized deciduous tree",
   "native_region": "Indian Subcontinent and parts of Southeast Asia",
   "images": [
-    "/src/assets/bibba_1.jpeg",
-    "/src/assets/bibba_2.jpeg",
-    "/src/assets/bibba_3.jpeg"
+    "/src/assets/bibba_1.jpg",
+    "/src/assets/bibba_2.jpg",
+    "/src/assets/bibba_3.jpg"
   ],
   "description": {
     "height": "10-15 meters (33-50 feet)",
@@ -995,9 +995,9 @@
   "type": "Large deciduous tree",
   "native_region": "India, Nepal, Sri Lanka, Southeast Asia",
   "images": [
-    "/src/assets/behada_1.jpeg",
-    "/src/assets/behada_2.jpeg",
-    "/src/assets/behada_3.jpeg"
+    "/src/assets/behada_1.jpg",
+    "/src/assets/behada_2.webp",
+    "/src/assets/behada_3.webp"
   ],
   "description": {
     "height": "20-30 meters (65-100 feet)",
@@ -1055,8 +1055,8 @@
   "type": "Medium-sized deciduous tree",
   "native_region": "India, Nepal, Sri Lanka, Southeast Asia",
   "images": [
-    "/src/assets/amla_1.jpeg",
-    "/src/assets/amla_2.jpeg",
+    "/src/assets/amla_1.jpg",
+    "/src/assets/amla_2.webp",
     "/src/assets/amla_3.jpeg"
   ],
   "description": {
@@ -1115,9 +1115,9 @@
   "type": "Large evergreen tree",
   "native_region": "Indian Subcontinent (India, Nepal, Pakistan, Bangladesh, Sri Lanka, Myanmar)",
   "images": [
-    "/src/assets/neem_1.jpeg",
-    "/src/assets/neem_2.jpeg",
-    "/src/assets/neem_3.jpeg"
+    "/src/assets/neem_1.jpg",
+    "/src/assets/neem_2.jpg",
+    "/src/assets/neem_3.avif"
   ],
   "description": {
     "height": "15-20 meters (50-65 feet), sometimes up to 30 meters",

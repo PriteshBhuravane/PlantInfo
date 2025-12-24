@@ -29,6 +29,21 @@ import jambhul2 from "@/assets/jambhul_2.jpg"
 import tamrind from "@/assets/tamarind_1.jpg"
 import tamrind2 from "@/assets/tamarind_2.jpg"
 import tamrind3 from "@/assets/tamarind_3.jpg"
+import amla1 from "@/assets/amla_1.jpg"
+import amla2 from "@/assets/amla_2.webp"
+import amla3 from "@/assets/amla_3.jpeg"
+import undi from "@/assets/undi.jpg"
+import undi2 from "@/assets/undi_2.jpg"
+import undi3 from "@/assets/undi_3.jpg"
+import neem1 from "@/assets/neem_1.jpg"
+import neem2 from "@/assets/neem_2.jpg"
+import neem3 from "@/assets/neem_3.avif"
+import bibba1 from "@/assets/bibba_1.jpg"
+import bibba2 from "@/assets/bibba_2.jpg"
+import bibba3 from "@/assets/bibba_3.jpg"
+import behada1 from "@/assets/behada_1.jpg"
+import behada2 from "@/assets/behada_2.webp"
+import behada3 from "@/assets/behada_3.webp"
 
 // Image mapping for plant IDs
 export const plantImages: Record<number, string[]> = {
@@ -42,6 +57,11 @@ export const plantImages: Record<number, string[]> = {
   8: [kusum3, kusum, kusum2],
   9: [jambhul, jambhul1, jambhul2],
   10: [tamrind, tamrind2, tamrind3],
+  18: [amla1, amla2, amla3],
+  12: [undi3, undi2, undi],
+  19: [neem1, neem2, neem3],
+  13: [bibba2, bibba1, bibba3],
+  17: [behada2, behada1, behada3],
 
 };
 
