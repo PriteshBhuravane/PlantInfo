@@ -44,6 +44,21 @@ import bibba3 from "@/assets/bibba_3.jpg"
 import behada1 from "@/assets/behada_1.jpg"
 import behada2 from "@/assets/behada_2.webp"
 import behada3 from "@/assets/behada_3.webp"
+import hirada from "@/assets/hirada1.jpg"
+import hirada1 from "@/assets/hirada2.jpg"
+import hirada2 from "@/assets/hirada3.jpg"
+import mahua1 from "@/assets/mahua1.jpg"
+import mahua2 from "@/assets/mahua2.jpg"
+import mahua3 from "@/assets/mahua3.jpg"
+import muchkunda1 from "@/assets/muchkunda_1.jpg"
+import muchkunda2 from "@/assets/muchkunda_2.jpg"
+import muchkunda3 from "@/assets/muchkunda_3.jpg"
+import sankasur1 from "@/assets/sankasur1.jpg"
+import sankasur2 from "@/assets/sankasur2.jpg"
+import sankasur3 from "@/assets/sankasur3.jpg"
+import surangi1 from "@/assets/surangi1.jpg"
+import surangi2 from "@/assets/surangi2.jpg"
+import surangi3 from "@/assets/surangi3.jpg"
 
 // Image mapping for plant IDs
 export const plantImages: Record<number, string[]> = {
@@ -62,6 +77,11 @@ export const plantImages: Record<number, string[]> = {
   19: [neem1, neem2, neem3],
   13: [bibba2, bibba1, bibba3],
   17: [behada2, behada1, behada3],
+  16: [hirada, hirada1, hirada2],
+  11: [mahua2, mahua1, mahua3],
+  20: [muchkunda1, muchkunda2, muchkunda3],
+  15: [sankasur1, sankasur2, sankasur3],
+  14: [surangi1, surangi2, surangi3]
 
 };
 

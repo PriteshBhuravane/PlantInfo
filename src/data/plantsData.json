@@ -1175,10 +1175,10 @@
   "type": "Large evergreen tree",
   "native_region": "Indian Subcontinent and Southeast Asia",
   "images": [
-    "/src/assets/muchkunda_1.jpeg",
-    "/src/assets/muchkunda_2.jpeg",
-    "/src/assets/muchkunda_3.jpeg"
-  ],
+    "/src/assets/muchkunda_1.jpg",
+    "/src/assets/muchkunda_2.jpg",
+    "/src/assets/muchkunda_3.jpg"
+],
   "description": {
     "height": "12-20 meters (40-65 feet)",
     "spread": "Wide crown with dense foliage",
