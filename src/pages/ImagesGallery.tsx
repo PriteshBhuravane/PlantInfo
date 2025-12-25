@@ -1,12 +1,43 @@
 import React from "react";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
-import neemImage from "../assets/neem_3.avif";
+
+import amla4 from "../assets/amla_4.jpeg";
+import Audumber_4 from "../assets/audumber_4.jpeg";
+import palas from "../assets/Palas_4.jpeg";
+import arjun4 from "../assets/arjun_4.jpeg";
+import bel4 from "../assets/bel_4.jpeg";
+import bibba4 from "../assets/Bibba_4.jpeg";
+import bakul4 from "../assets/bakul_4.jpeg";
+import moh from "../assets/Moh.jpeg";
+import neem4 from "../assets/neem_4.jpeg";
+import vad4 from "../assets/vad_4.jpeg";
+import Muchkunda_4 from "../assets/Muchkunda_4.jpeg";
+import undi from "../assets/undi_4.jpeg";
+import sankasur from "../assets/sankasur_4.jpeg";
+import Jambhul from "../assets/Jambhul.jpeg";
+import Hirda from "../assets/hirada4.jpeg";
+import Pimpal from "../assets/pimpal.jpeg";
 
 // Example placeholder data, replace with real images and names later
 const plants = [
-  { name: "Neem", image: neemImage },
-  // Add more plant objects here as you add images
+  { name: "Amla", image: amla4 },
+  { name: "Arjun", image: arjun4 },
+  { name: "Bel", image: bel4 },
+  { name: "Bibba", image: bibba4 },
+  { name: "Bakul", image: bakul4 },
+  { name: "Moh", image: moh },
+  { name: "Neem", image: neem4 },
+  { name: "Vad", image: vad4 },
+  { name: "Palas", image: palas },
+  { name: "Muchkunda", image: Muchkunda_4 },
+  { name: "Sankasur", image: sankasur },
+  { name: "Jambhul", image: Jambhul },
+  { name: "Undi", image: undi },
+  { name: "Hirda", image: Hirda },
+  { name: "Audumber", image: Audumber_4 },
+  { name: "Pimpal", image: Pimpal }
+  
 ];
 
 const ImagesGallery: React.FC = () => {
