@@ -48,6 +48,12 @@ const Header = () => {
             Gallery
           </Link>
           <Link 
+            to="/images-gallery" 
+            className="text-foreground hover:text-accent transition-smooth font-medium"
+          >
+            Images Gallery
+          </Link>
+          <Link 
             to="/about" 
             className="text-foreground hover:text-accent transition-smooth font-medium"
           >
@@ -125,6 +131,13 @@ const Header = () => {
                 onClick={() => setIsMenuOpen(false)}
               >
                 Gallery
+              </Link>
+              <Link 
+                to="/images-gallery" 
+                className="text-foreground hover:text-accent transition-smooth font-medium py-2"
+                onClick={() => setIsMenuOpen(false)}
+              >
+                Images Gallery
               </Link>
               <Link 
                 to="/about" 
