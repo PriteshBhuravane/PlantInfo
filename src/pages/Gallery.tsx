@@ -11,17 +11,13 @@ import plantsData from "@/data/plantsData.json";
 const Gallery = () => {
   const [searchParams, setSearchParams] = useSearchParams();
   const searchParamValue = searchParams.get("search") || "";
-  const [searchQuery, setSearchQuery] = useState(searchParamValue);
+  // Always use the URL param as the source of truth for search
+  const searchQuery = searchParamValue;
   const [typeFilter, setTypeFilter] = useState("all");
   const [sortBy, setSortBy] = useState("name");
   const [viewMode, setViewMode] = useState<"grid" | "list">("grid");
   const [visibleCount, setVisibleCount] = useState(6);
   const [filteredPlants, setFilteredPlants] = useState(plantsData);
-
-  // Keep searchQuery in sync with URL param
-  useEffect(() => {
-    setSearchQuery(searchParamValue);
-  }, [searchParamValue]);
 
   // Filter and search plants
   useEffect(() => {
@@ -113,7 +109,7 @@ const Gallery = () => {
                   type="text"
                   placeholder="Search plants..."
                   value={searchQuery}
-                  onChange={(e) => setSearchQuery(e.target.value)}
+                  onChange={(e) => setSearchParams({ search: e.target.value })}
                   className="pl-10"
                 />
               </div>

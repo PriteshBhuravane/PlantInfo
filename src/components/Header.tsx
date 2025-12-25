@@ -13,8 +13,8 @@ const Header = () => {
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
     if (searchQuery.trim()) {
-      navigate(`/gallery?search=${encodeURIComponent(searchQuery.trim())}`);
-      setSearchQuery("");
+      navigate(`/gallery?search=${encodeURIComponent(searchQuery.trim())}`, { replace: true });
+      setTimeout(() => setSearchQuery(""), 100); // Clear after navigation
     }
   };
 
