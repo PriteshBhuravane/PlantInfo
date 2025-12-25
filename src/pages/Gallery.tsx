@@ -10,12 +10,18 @@ import plantsData from "@/data/plantsData.json";
 
 const Gallery = () => {
   const [searchParams, setSearchParams] = useSearchParams();
-  const [searchQuery, setSearchQuery] = useState(searchParams.get("search") || "");
+  const searchParamValue = searchParams.get("search") || "";
+  const [searchQuery, setSearchQuery] = useState(searchParamValue);
   const [typeFilter, setTypeFilter] = useState("all");
   const [sortBy, setSortBy] = useState("name");
   const [viewMode, setViewMode] = useState<"grid" | "list">("grid");
   const [visibleCount, setVisibleCount] = useState(6);
   const [filteredPlants, setFilteredPlants] = useState(plantsData);
+
+  // Keep searchQuery in sync with URL param
+  useEffect(() => {
+    setSearchQuery(searchParamValue);
+  }, [searchParamValue]);
 
   // Filter and search plants
   useEffect(() => {
