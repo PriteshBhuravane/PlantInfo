@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { Link, useNavigate } from "react-router-dom";
-import { Search, Menu, X, Leaf } from "lucide-react";
+import { Search, Menu, X } from "lucide-react";
+import logo from "../assets/logo.png";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 
@@ -26,12 +27,10 @@ const Header = () => {
       <div className="container mx-auto px-4 h-16 flex items-center justify-between">
         {/* Logo */}
         <Link to="/" className="flex items-center space-x-2 transition-smooth hover:scale-105">
-          <div className="w-8 h-8 bg-gradient-nature rounded-lg flex items-center justify-center">
-            <Leaf className="w-5 h-5 text-primary-foreground" />
-          </div>
-          <span className="text-xl font-bold bg-gradient-nature bg-clip-text text-transparent">
-            PlantInfo
-          </span>
+          <img src={logo} alt="Logo" className="h-14 w-auto object-contain" style={{maxHeight: '56px'}} />
+          {/* <span className="text-xl font-bold bg-gradient-nature bg-clip-text text-transparent">
+            aasamant
+          </span> */}
         </Link>
 
         {/* Desktop Navigation */}
