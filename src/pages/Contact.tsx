@@ -58,7 +58,7 @@ const Contact = () => {
     {
       icon: <Mail className="w-6 h-6 text-accent" />,
       title: "Email Us",
-      content: "info@plantinfo.com",
+      content: "aasamant@gmail.com",
       description: "Send us an email anytime"
     },
     {
@@ -86,7 +86,7 @@ const Contact = () => {
     },
     {
       question: "Is the website free to use?",
-      answer: "Yes, PlantInfo is completely free to use. We believe plant knowledge should be accessible to everyone."
+      answer: "Yes, aasamant is completely free to use. We believe plant knowledge should be accessible to everyone."
     },
     {
       question: "How often is the database updated?",

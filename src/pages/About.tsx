@@ -51,7 +51,7 @@ const About = () => {
         <div className="container mx-auto px-4 text-center">
           <div className="max-w-4xl mx-auto">
             <h1 className="text-4xl md:text-5xl font-bold mb-6 text-primary-foreground">
-              About PlantInfo
+              About aasamant
             </h1>
             <p className="text-xl md:text-2xl text-primary-foreground/90 leading-relaxed">
               Your trusted companion in the world of plants and botany. We're passionate about 
@@ -126,7 +126,7 @@ const About = () => {
               </h2>
               <div className="space-y-4 text-muted-foreground leading-relaxed">
                 <p>
-                  PlantInfo was born from a simple observation: while there's an abundance of plant 
+                  aasamant was born from a simple observation: while there's an abundance of plant 
                   information scattered across the internet, there wasn't a single, reliable source 
                   that combined beautiful imagery with comprehensive, accurate data.
                 </p>
@@ -169,7 +169,7 @@ const About = () => {
               Our Values
             </h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-              The principles that guide everything we do at PlantInfo.
+              The principles that guide everything we do at aasamant.
             </p>
           </div>
 
@@ -201,7 +201,7 @@ const About = () => {
           </h2>
           <p className="text-xl text-earth-foreground/90 mb-8 max-w-2xl mx-auto">
             Whether you're a seasoned gardener or just starting your plant journey, 
-            PlantInfo is here to help you discover the wonderful world of plants.
+            aasamant is here to help you discover the wonderful world of plants.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a href="/gallery" className="inline-block">

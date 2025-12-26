@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import { Leaf, Mail, MapPin, Phone } from "lucide-react";
+import logo from "../assets/logo.png";
 
 const Footer = () => {
   return (
@@ -9,10 +10,12 @@ const Footer = () => {
           {/* Logo and Description */}
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
-              <div className="w-8 h-8 bg-accent rounded-lg flex items-center justify-center">
-                <Leaf className="w-5 h-5 text-accent-foreground" />
-              </div>
-              <span className="text-xl font-bold">PlantInfo</span>
+               <Link to="/" className="flex items-center space-x-2 transition-smooth hover:scale-105">
+          <img src={logo} alt="Logo" className="h-14 w-auto object-contain" style={{maxHeight: '56px'}} />
+          {/* <span className="text-xl font-bold bg-gradient-nature bg-clip-text text-transparent">
+            aasamant
+          </span> */}
+        </Link>
             </div>
             <p className="text-primary-foreground/80 text-sm leading-relaxed">
               Your comprehensive guide to plant information. Discover, learn, and explore 
@@ -70,7 +73,7 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-3 text-sm">
                 <Mail className="w-4 h-4 text-accent" />
-                <span className="text-primary-foreground/80">info@plantinfo.com</span>
+                <span className="text-primary-foreground/80">aasamant@gmail.com</span>
               </div>
               <div className="flex items-center space-x-3 text-sm">
                 <Phone className="w-4 h-4 text-accent" />
@@ -88,7 +91,7 @@ const Footer = () => {
         <div className="mt-8 pt-8 border-t border-primary-foreground/20">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-primary-foreground/60 text-sm">
-              © 2024 PlantInfo. All rights reserved. Plant information sourced from various botanical databases.
+              © 2024 aasamant. All rights reserved. Plant information sourced from various botanical databases.
             </p>
             <div className="text-primary-foreground/60 text-sm">
               Made with 🌱 for plant lovers everywhere
