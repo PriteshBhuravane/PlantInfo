@@ -58,20 +58,32 @@ const Contact = () => {
     {
       icon: <Mail className="w-6 h-6 text-accent" />,
       title: "Email Us",
-      content: "aasamant@gmail.com",
+      content: <a href="mailto:aasamant@gmail.com" className="hover:underline">aasamant@gmail.com</a>,
       description: "Send us an email anytime"
     },
     {
       icon: <Phone className="w-6 h-6 text-nature-success" />,
       title: "Call Us",
-      content: "+1 (555) 123-4567",
-      description: "Mon-Fri 9AM-6PM EST"
+      content: (
+        <div className="space-y-1">
+          <a href="tel:+912352228673" className="hover:underline block">+91-2352-228673, 228516</a>
+          <a href="tel:+919822282331" className="hover:underline block">+91-98222 82331</a>
+          <a href="tel:+919881464859" className="hover:underline block">+91-98814 64859</a>
+        </div>
+      ),
+      description: "Mon-Sat 9AM-6PM IST"
     },
     {
       icon: <MapPin className="w-6 h-6 text-earth" />,
       title: "Visit Us",
-      content: "123 Green Street, Plant City, PC 12345",
-      description: "Our botanical research center"
+      content: (
+        <span>
+          PM 75, MIDC, Mirjole,<br />
+          Ratnagiri - 415639<br />
+          Maharashtra, INDIA
+        </span>
+      ),
+      description: "Aasamant Benevolence Foundation, Ratnagiri"
     }
   ];
 
@@ -111,7 +123,7 @@ const Contact = () => {
         </div>
       </section>
 
-      {/* Contact Information */}
+      {/* Contact Information & Map */}
       <section className="py-16">
         <div className="container mx-auto px-4">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-16">
@@ -126,15 +138,28 @@ const Contact = () => {
                   <h3 className="text-xl font-semibold text-foreground">
                     {info.title}
                   </h3>
-                  <p className="text-lg font-medium text-accent">
+                  <div className="text-lg font-medium text-accent">
                     {info.content}
-                  </p>
+                  </div>
                   <p className="text-sm text-muted-foreground">
                     {info.description}
                   </p>
                 </CardContent>
               </Card>
             ))}
+          </div>
+          {/* Embedded Google Map */}
+          <div className="rounded-lg overflow-hidden shadow-lg max-w-7xl mx-auto">
+            <iframe
+              title="Aasamant Benevolence Foundation Map"
+              src="https://www.google.com/maps?q=Aasamant+Benevolence+Foundation,+MIDC,+PM+75,+Mirjole,+Maharashtra+415639&output=embed"
+              width="100%"
+              height="500"
+              style={{ border: 0 }}
+              allowFullScreen={true}
+              loading="lazy"
+              referrerPolicy="no-referrer-when-downgrade"
+            ></iframe>
           </div>
         </div>
       </section>

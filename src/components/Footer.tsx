@@ -73,15 +73,19 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-3 text-sm">
                 <Mail className="w-4 h-4 text-accent" />
-                <span className="text-primary-foreground/80">aasamant@gmail.com</span>
+                <a href="mailto:aasamant@gmail.com" className="text-primary-foreground/80 hover:underline">aasamant@gmail.com</a>
               </div>
               <div className="flex items-center space-x-3 text-sm">
                 <Phone className="w-4 h-4 text-accent" />
-                <span className="text-primary-foreground/80">+1 (555) 123-4567</span>
+                <div className="text-primary-foreground/80 space-y-0.5">
+                  <a href="tel:+912352228673" className="hover:underline block">+91-2352-228673, 228516</a>
+                  <a href="tel:+919822282331" className="hover:underline block">+91-98222 82331</a>
+                  <a href="tel:+919881464859" className="hover:underline block">+91-98814 64859</a>
+                </div>
               </div>
               <div className="flex items-center space-x-3 text-sm">
                 <MapPin className="w-4 h-4 text-accent" />
-                <span className="text-primary-foreground/80">123 Green Street, Plant City</span>
+                <span className="text-primary-foreground/80">PM 75, MIDC, Mirjole, Ratnagiri - 415639, Maharashtra, INDIA</span>
               </div>
             </div>
           </div>
