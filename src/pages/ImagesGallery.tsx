@@ -103,7 +103,8 @@ const ImagesGallery: React.FC = () => {
       <Header />
       <main className="min-h-[70vh] bg-gradient-to-br from-green-50 via-lime-100 to-emerald-50 py-10">
         <div className="container mx-auto">
-          <h1 className="text-4xl font-extrabold mb-10 text-center text-green-800 drop-shadow-lg tracking-tight">Images Gallery</h1>
+          <h1 className="text-4xl font-extrabold mb-6 text-center text-green-800 drop-shadow-lg tracking-tight">Images Gallery</h1>
+         
           <Section title="Plant Photos" items={plants} />
           {groupPhotos.length > 0 && <Section title="Group Photos" items={groupPhotos} />}
           {cleaningPhotos.length > 0 && <Section title="Cleaning Photos" items={cleaningPhotos} />}

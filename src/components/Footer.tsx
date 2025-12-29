@@ -93,10 +93,15 @@ const Footer = () => {
 
         {/* Bottom Section */}
         <div className="mt-8 pt-8 border-t border-primary-foreground/20">
-          <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
-            <p className="text-primary-foreground/60 text-sm">
-              © 2024 aasamant. All rights reserved. Plant information sourced from various botanical databases.
-            </p>
+          <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0 w-full">
+            <div className="flex flex-col md:flex-row md:items-center md:space-x-6 w-full">
+              <p className="text-primary-foreground/60 text-sm">
+                © 2024 aasamant. All rights reserved. Plant information sourced from various botanical databases.
+              </p>
+              <span className="text-primary-foreground/60 text-xs italic mt-2 md:mt-0 block">
+                Disclaimer: All information and content on this website, including plant details and images, have been generated or curated with the assistance of artificial intelligence. Please verify critical information independently for professional or scientific use.
+              </span>
+            </div>
             <div className="text-primary-foreground/60 text-sm">
               Made with 🌱 for plant lovers everywhere
             </div>

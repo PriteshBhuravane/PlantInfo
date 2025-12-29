@@ -166,6 +166,11 @@ const Gallery = () => {
             </div>
           </div>
         </div>
+        <div>
+           <p className="mb-8 text-center text-gray-600 text-base italic max-w-8xl mx-auto">
+                      <span className="font-semibold">Disclaimer:</span> The information and content displayed in this gallery, including plant details and images, have been generated or curated with the assistance of artificial intelligence. Please verify critical information independently for professional or scientific use.
+                    </p>
+        </div>
 
         {/* Results Count */}
         <div className="mb-6">
